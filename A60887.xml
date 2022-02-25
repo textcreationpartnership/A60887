@@ -1,0 +1,1989 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caliope's cabinet opened wherein gentlemen may be informed how to adorn themselves for funerals, feastings, and other heroick meetings : also, here they may know their place and worth with all the degrees and distinctions of honour in the realm, shewing how every one ought to take place with the titles due to them, with other things of antiquity very observable / by James Salter.</title>
+            <author>Salter, James, fl. 1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60887</idno>
+            <idno type="STC">Wing S465</idno>
+            <idno type="STC">ESTC R16669</idno>
+            <idno type="EEBO-CITATION">13623136</idno>
+            <idno type="OCLC">ocm 13623136</idno>
+            <idno type="VID">100852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100852)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 801:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Caliope's cabinet opened wherein gentlemen may be informed how to adorn themselves for funerals, feastings, and other heroick meetings : also, here they may know their place and worth with all the degrees and distinctions of honour in the realm, shewing how every one ought to take place with the titles due to them, with other things of antiquity very observable / by James Salter.</title>
+                  <author>Salter, James, fl. 1665.</author>
+               </titleStmt>
+               <extent>[4], 66, [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Will. Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [4]</note>
+                  <note>Includes index.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Etiquette --  England --  Early works to 1800.</term>
+               <term>Etiquette --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100852:1"/>
+            <pb facs="tcp:100852:1"/>
+            <p>
+               <hi>CALIOPE'S</hi> Cabinet Opened.</p>
+            <p>WHEREIN Gentlemen may be informed how to adorn themſelves for FUNE<g ref="char:EOLhyphen"/>RALS, FEASTINGS, and other Heroick Meetings.</p>
+            <p>ALSO Here they may know their place and Worth; with all the Degrees and D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtinctions of Honour in the Realm: ſhew<g ref="char:EOLhyphen"/>ing how every one ought to take place, with the Titles due to them; with other things of Antiquity very obſerveable.</p>
+            <p>By <hi>James Salter.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>G. M.</hi> for <hi>Will. Crooke,</hi> at the three Bibles on <hi>Fleet-Bridge,</hi> 1665.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100852:2"/>
+            <pb facs="tcp:100852:2"/>
+            <head>To the Worſhipful <hi>Thomas Clifford,</hi> Eſquire, And to the Worſhipful <hi>Henry Ford.</hi> Eſ<g ref="char:EOLhyphen"/>quire; Juſtices of the Peace, for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Devon.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sirs,</salute>
+            </opener>
+            <p>YE may not onely admire at my Confidence, but ſmile at my Folly, that dare recommend to your Protection, and publiſh under your Name this my rude and unpolliſhed Enchyridian: I muſt in<g ref="char:EOLhyphen"/>geniouſly confeſs they are ſubjects too low for either of your high and learned Endowments (which re<g ref="char:EOLhyphen"/>quire an advancement by ſome acute Orator) but knowing true Generoſity accepteth what is zea<g ref="char:EOLhyphen"/>louſly offered, though not deſervingly excellent. I am the more encouraged to preſume on your gena<g ref="char:EOLhyphen"/>rous diſpoſitions, hoping it may finde admittance from your worthy ſelves; for as <hi>Cinthia's</hi> bor<g ref="char:EOLhyphen"/>rowed Beams do ſhine from <hi>Titans</hi> Glory; ſo I am ſenſible this Book of mine will appear dark, and may juſtly be rejected without the reflection of your propitious Countenances upon it: Therefore, good Sirs, be pleaſed to own both it and your enga<g ref="char:EOLhyphen"/>ged Servant. Having found you <hi>Amicos inter adverſa,</hi> I could do no other then publickly to own your Favours to my unworthy ſelf; the acknow<g ref="char:EOLhyphen"/>ledgement
+<pb facs="tcp:100852:3"/>of your Loves to me is my thanks, and to thank you for your Loves muſt be my beſt ac<g ref="char:EOLhyphen"/>knowledgement; I can do no more, I ſhall never do leſs, and what <hi>I</hi> want in power is ſupplied in will. Pardon my boldneſs if I have ſoared too high in this enterprize, who is</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant to be commanded,</hi> James Salter.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>Books newly Printed for <hi>William Crooke,</hi> at the three Bibles on</hi> Fleet-Bridge, 1665.</head>
+            <p>The <hi>Hiſtory of St. George,</hi> ſhewing his Mi<g ref="char:EOLhyphen"/>racles, Atchievements, and all other Actions during his Life, with his Martyrdome, <hi>&amp;c.</hi> By <hi>T. Lowick,</hi> Gent. Never Printed before.</p>
+            <p>
+               <hi>Sixty nine Enigmatical Characters,</hi> all exactly drawn to the life; very full of pleaſure and delight: By <hi>R. F.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>There is newly cut the <hi>Pictures</hi> to the Old Teſtament; never before cut in <hi>England.</hi>
+            </p>
+            <p>The <hi>Royal Stem,</hi> being a Relation to all the moſt principal Actions from <hi>William</hi> the Con<g ref="char:EOLhyphen"/>querour to the end of the Year 1664. With the Pictures of King <hi>Charles</hi> the Second; all in a broad ſheet of Paper.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100852:3"/>
+            <head>CALIOPE'S Cabinet Opened.</head>
+            <div type="part">
+               <head>The Kings Crown with its Twelve Stones therein.</head>
+               <p>IN the King of <hi>England;</hi> Crown are theſe enſuing Precious Stones.</p>
+               <p n="1">1. <hi>Topazion,</hi> it contains the colour of moſt Precious Stones, and by which the King is warned to exerciſe all vertues.</p>
+               <p n="2">2. <hi>Smaragd</hi> or <hi>Emrdud,</hi> ſo green as it ex<g ref="char:EOLhyphen"/>ceedeth all Herbs. It repreſenteth Juſtice in the King.</p>
+               <p n="3">3. <hi>Sardique,</hi> it is in colour like unto red Clay, which is in the top of the Diadem; for the King to conſider though he is the higheſt yet he is but Clay.</p>
+               <p n="4">4. <hi>Cryſelith,</hi> it ſhineth like Gold, ſending as it were, forth flames; this exhorteth the King to ſhine in Wiſdom and Prudence.</p>
+               <p n="5">5. <hi>Calcedon,</hi> being ſtrong and hard by na<g ref="char:EOLhyphen"/>ture;
+<pb n="2" facs="tcp:100852:4"/>ſheweth that the King ſhould be of For<g ref="char:EOLhyphen"/>titude and Courage of mind in the Regiment of his people.</p>
+               <p n="6">6. <hi>Hiacinth;</hi> It ſheweth like water the Sun ſhining upon it, it teacheth Temperance and Sobriety.</p>
+               <p n="7">7. <hi>Jaſper,</hi> it is like a dark or Graſſe-green colour; This teacheth the King to provide for the Diet and plenty of his people more then for his own.</p>
+               <p n="8">8. <hi>Criſopalle,</hi> of the colour of Gold ſome<g ref="char:EOLhyphen"/>what mixed with green; the Gold admoniſh<g ref="char:EOLhyphen"/>eth Wiſdom; the green warneth him to aſpire Heavenly things.</p>
+               <p n="9">9. <hi>Berill,</hi> green and pale; this perſwadeth Heavenly Contemplation, and that he ought not to be Corpulent by Epicuriſm.</p>
+               <p n="10">10. A <hi>Saphire</hi> is of a light blew; This in<g ref="char:EOLhyphen"/>ſtructeth the King to Continency.</p>
+               <p n="11">11. <hi>Amatiſt,</hi> it is decked with Purple and Violet; the Purple biddeth the King to dif<g ref="char:EOLhyphen"/>charge his Regal Function; the Violet to give a good Savour.</p>
+               <p n="12">12. <hi>Sardonax,</hi> is black in the bottom, red in the midſt, and white above; and inſtruct<g ref="char:EOLhyphen"/>eth the King to Humbleneſs, Charity, and Sincerity.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:100852:4"/>
+               <head>His Enſigns.</head>
+               <list>
+                  <item>1. A Mound or Ball of Gold with a Croſs on it ſheweth to him that the Reli<g ref="char:EOLhyphen"/>gion of Chriſt ought to be reverenced through all his Dominions.</item>
+                  <item>2. Scepter, ſhews Juſtice.</item>
+                  <item>3. Sword, denotes Vengeance.</item>
+                  <item>4. Ring, noting Faithfulneſs.</item>
+                  <item>5. Bracelet, which is for good Works.</item>
+                  <item>6. Purple Robe, is for Reverence.</item>
+                  <item>7. Diadem, which is for Triumph.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Coronation of the King.</head>
+               <list>
+                  <item>FIrſt goes the Kings Meſſengers two and two.</item>
+                  <item>Gentlemen two and two.</item>
+                  <item>Trumpeerts on both ſides.</item>
+                  <item>Eſquires of the Body.</item>
+                  <item>Knights Bachelors.</item>
+                  <item>Greater Chaplains.</item>
+                  <item>Younger Sons of Noblemen.</item>
+                  <item>Mdermen of <hi>London.</hi>
+                  </item>
+                  <item>Clerks of the Counſel.</item>
+                  <item>Secretaries to the King.</item>
+                  <item>Maſter of the Rolls.</item>
+                  <item>Knights of the Bath.</item>
+                  <pb n="4" facs="tcp:100852:5"/>
+                  <item>Counſellours to the King.</item>
+                  <item>Knights Baronets and Bannorets.</item>
+                  <item>Knights of the Garter, no Barons.</item>
+                  <item>Sons of Viſcounts.</item>
+                  <item>Younger Sons of Earls and Marqueſſes.</item>
+                  <item>Barons.</item>
+                  <item>Earls eldeſt Sons.</item>
+                  <item>Viſcounts.</item>
+                  <item>Biſhops.</item>
+                  <item>Marqueſſes eldeſt Sons.</item>
+                  <item>Dukes younger Sons.</item>
+                  <item>Earls.</item>
+                  <item>Dukes eldeſt Sons.</item>
+                  <item>Marqueſſes.</item>
+                  <item>Dukes.</item>
+                  <item>Controuler of the Houſe.</item>
+                  <item>Treaſurer of the Houſe.</item>
+                  <item>Almoner.</item>
+                  <item>Secretary of State.</item>
+                  <item>Lord Admiral.</item>
+                  <item>Keeper of the Privy Seaſ.</item>
+                  <item>Lord Great Maſter.</item>
+                  <item>Lord Chancellour.</item>
+                  <item>Two repreſenting the Dukes of <hi>Normandy</hi> and <hi>Aquitaine.</hi>
+                  </item>
+                  <item>Garter and the Lord Mayor with the Mace of his Majeſty.</item>
+                  <item>Serjeants at Arms and Heraulds on both ſides.</item>
+                  <item>The Conſtable of <hi>England,</hi> the great Cham<g ref="char:EOLhyphen"/>berlain and Marſhall on each ſide of the King.</item>
+                  <pb n="5" facs="tcp:100852:5"/>
+                  <item>The King under a Canope born by ſix Knights.</item>
+                  <item>The Maſter of the Horſe leading a Rich Horſe.</item>
+                  <item>Nine Pages on Horſeback with their Captain following.</item>
+                  <item>Gentlemen Pentioners with their Partiſans.</item>
+                  <item>The Captain of the Guard with the Yeomen.</item>
+                  <item>Servants of Noblemen and Gentlemen.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>A Royal Feast, the King Freſent.</head>
+               <p>FIrſt at the Head of the Table the King himſelf ſits.</p>
+               <p n="2">2. At the lower end of the ſame Table are placed Embaſſadours of divers Princes.</p>
+               <p n="3">3. Before him ſtand the Carver, Sewer, and Cupbearer, with a great number of Gentle<g ref="char:EOLhyphen"/>men-waiters attending his Perſon; the Uſhers making place to ſtrangers that come to be<g ref="char:EOLhyphen"/>hold his Perſon.</p>
+               <p n="4">4. At a ſide Table on the right hand near adjoyning to the King, are placed the Lord Chancellour, Chamberlain, Steward, Trea<g ref="char:EOLhyphen"/>ſurer, and Keeper of the Seal, with Divers Honourable Perſons.</p>
+               <p n="5">5. At another Table at the left hand are placed the Treaſurer of the Houſhold, Se<g ref="char:EOLhyphen"/>cretaries, the Kings Serjants at Law, the Ma<g ref="char:EOLhyphen"/>ſter
+<pb n="6" facs="tcp:100852:6"/>of the Revels, the King at Arms, the Dean of the Chappel, and divers Gentlemen Pen<g ref="char:EOLhyphen"/>tioners to furniſh the ſame.</p>
+               <p n="6">6. At the other Table at the other ſide are ſet the Maſter of the Game and his chief Ranger, Maſters of the Houſhold, Clerks of the Green Cloath and Chequer, with ſtran<g ref="char:EOLhyphen"/>gers to furniſh the ſame.</p>
+               <p n="7">7. At another Table over againſt them is placed the Lieutenant of the Tower, accom<g ref="char:EOLhyphen"/>panied with divers Captains of foot.</p>
+               <p n="8">8. At the lower end of the Hall begins the high Butler and Panther, Clerks of the Kitchin furniſhed, throughout with the Kings Guard.</p>
+               <p>At every courſe the Trumpets with other Muſick are to ſound.</p>
+            </div>
+            <div type="part">
+               <head>Going to the Parliament in State.</head>
+               <list>
+                  <item>FIrſt the Meſſengers of the Court.</item>
+                  <item>Gentlemen of leſſer note,</item>
+                  <item>Eſquires.</item>
+                  <item>Eſquires of the Body.</item>
+                  <item>Clerks of the Chancery.</item>
+                  <item>Clerks of the Signet.</item>
+                  <item>Clerks of the Privy Seal.</item>
+                  <item>Clerks of the Counſel.</item>
+                  <item>Maſters of the Chancery.</item>
+                  <pb n="7" facs="tcp:100852:6"/>
+                  <item>Knights Bachelours.</item>
+                  <item>Knights Baronets and Bannorets.</item>
+                  <item>Serjeants at Law.</item>
+                  <item>The Kings Serjeants.</item>
+                  <item>Two Heraulds.</item>
+                  <item>Judges of the Exchequer.</item>
+                  <item>Judges of both Benches.</item>
+                  <item>Chief Juſtice of the Pleas and chief Baron.</item>
+                  <item>Chief Juſtice of the Kings Bench and Maſter of the Roll.</item>
+                  <item>Younger Sons of Noblemen.</item>
+                  <item>Treaſurer of the Kings Chamber.</item>
+                  <item>Knights of the Bath.</item>
+                  <item>Eldeſt Sons of Noblemen.</item>
+                  <item>Knights of the Privy Counſel.</item>
+                  <item>Knights of the Garter.</item>
+                  <item>Principal Secretary.</item>
+                  <item>Treaſurer and Comptroler of the Houſe.</item>
+                  <item>Two Heraulds.</item>
+                  <item>Barons.</item>
+                  <item>Two Heraulds.</item>
+                  <item>Biſhops.</item>
+                  <item>The Biſhop of <hi>Wincheſter,</hi> Prelate of the Gar<g ref="char:EOLhyphen"/>ter.</item>
+                  <item>Biſhop of <hi>London, Durham,</hi> and Lord Chancel<g ref="char:EOLhyphen"/>lour to the Archbiſhop of <hi>Canterbury,</hi> go next before the Archbiſhop by Act of Par<g ref="char:EOLhyphen"/>liament.</item>
+                  <item>Viſcounts.</item>
+                  <item>Two Heraulds.</item>
+                  <pb n="8" facs="tcp:100852:7"/>
+                  <item>Earles.</item>
+                  <item>Herauld King at Armes.</item>
+                  <item>Marqueſſes.</item>
+                  <item>Dukes.</item>
+                  <item>Lord Chancelour.</item>
+                  <item>Arch-Biſhops.</item>
+                  <item>Clarenceaux King at Arms.</item>
+                  <item>Two Serjeants at Arms.</item>
+                  <item>Garter with the chief Gentleman.</item>
+                  <item>Uſher at his right hand.</item>
+                  <item>The Earle Marſhal.</item>
+                  <item>Great Chamberlain and Steward of the Houſe.</item>
+                  <item>The King in a Chair carried.</item>
+                  <item>Four Eſquires and Footmen in rich Coats.</item>
+                  <item>Pentioners with Partiſans ranked on each ſide.</item>
+                  <item>Maſter of the Horſe leading a ſpare Horſe.</item>
+                  <item>Vice-Chamberlain.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Who are to be admitted Gentlemen.</head>
+               <list>
+                  <head>In Eccleſiaſtical.</head>
+                  <item>Vicars Generals.</item>
+                  <item>Guardians of Spirit.</item>
+                  <item>Deans of Cathedrals.</item>
+                  <item>Arch Deacons.</item>
+                  <item>Chancellors.</item>
+                  <item>Treaſurers.</item>
+                  <item>Chaunters.</item>
+                  <item>Doctors.</item>
+                  <item>Provoſts.</item>
+                  <item>Deans.</item>
+                  <item>Governours of Col<g ref="char:EOLhyphen"/>ledges.</item>
+               </list>
+               <pb n="9" facs="tcp:100852:7"/>
+               <list>
+                  <head>In Military.</head>
+                  <item>The high Conſtable.</item>
+                  <item>Lieutenant General</item>
+                  <item>Marſhal.</item>
+                  <item>Admiral.</item>
+                  <item>Major General.</item>
+                  <item>Quartermaſter Ge<g ref="char:EOLhyphen"/>neral.</item>
+                  <item>Treaſurer.</item>
+                  <item>Guardians of Fron<g ref="char:EOLhyphen"/>teers.</item>
+                  <item>Grand Eſquires</item>
+                  <item>Mr. of Artillery.</item>
+                  <item>Collonels.</item>
+                  <item>Serjeant Major.</item>
+                  <item>Captain and all that receive Commiſ<g ref="char:EOLhyphen"/>ſion.</item>
+               </list>
+               <list>
+                  <head>In Civil State.</head>
+                  <item>The Chancelor.</item>
+                  <item>Preſident.</item>
+                  <item>Treaſurer.</item>
+                  <item>Judges.</item>
+                  <item>Juſtices.</item>
+                  <item>Chief Officer of the Palace Royal.</item>
+                  <item>Secretary of State.</item>
+                  <item>Mayors.</item>
+                  <item>Provoſts.</item>
+                  <item>Bayliffs of incorpo<g ref="char:EOLhyphen"/>rate Towns and Cities.</item>
+               </list>
+               <pb n="10" facs="tcp:100852:8"/>
+            </div>
+            <div type="part">
+               <head>Of Doctors.</head>
+               <p>The Doctor of Divi<g ref="char:EOLhyphen"/>nity is to be prefer<g ref="char:EOLhyphen"/>red next the Knight</p>
+               <p>The Doctor of Law next.</p>
+               <p>The Doctor of Phy<g ref="char:EOLhyphen"/>ſick next.</p>
+               <p>To theſe profeſſions, is admitted the bear<g ref="char:EOLhyphen"/>ing of armes; but the Herauld ought to have a ſpecial care and regard in the deſignment Genti<g ref="char:EOLhyphen"/>lity obtained by learning is honor<g ref="char:EOLhyphen"/>able.</p>
+            </div>
+            <div type="part">
+               <head>Profeſſions not Gentlemen.</head>
+               <list>
+                  <item>1. <hi>Viliny</hi> which is the Countreyman.</item>
+                  <item>2. Shop-keepers commonly na<g ref="char:EOLhyphen"/>med Merchants, whoſe condition of life is ungentlle, in regard of the doubleneſs of their tongue, without which they cannot live.</item>
+                  <item>3. Craftſmen.</item>
+                  <item>4. Bondmen.</item>
+               </list>
+               <list>
+                  <head>Seven more, but Laudable.</head>
+                  <item>1. Agriculture.</item>
+                  <item>2. Cloathing.</item>
+                  <item>3. Architecture.</item>
+                  <pb n="11" facs="tcp:100852:8"/>
+                  <item>4. Merchandizing beyond Sea:</item>
+                  <item>5. <hi>Armatura,</hi> working of metal.</item>
+                  <item>6. <hi>Arsvenatoria,</hi> the art of Hunting.</item>
+                  <item>7. <hi>Theatoria,</hi> the Arts of Playes.</item>
+               </list>
+               <p>Theſe ſeven are correſpondent to ſeven Sciences, which may be admitted Gentle<g ref="char:EOLhyphen"/>men and bear armes, they are as followeth.</p>
+            </div>
+            <div type="part">
+               <head>Seven Sciences Gentile, with the Arms they may bear.</head>
+               <div type="section">
+                  <head>Doctor of Phyſick.</head>
+                  <p>
+                     <figure>
+                        <figDesc>serpent and tree</figDesc>
+                     </figure>
+                  </p>
+                  <p>MAy bear <hi>Argent,</hi> a<g ref="char:EOLhyphen"/>bout a Laurel Tree a Serpent inwrap<g ref="char:EOLhyphen"/>ped.</p>
+               </div>
+               <div type="part">
+                  <pb n="12" facs="tcp:100852:9"/>
+                  <head>The Orator.</head>
+                  <p>
+                     <figure>
+                        <figDesc>three roses</figDesc>
+                     </figure>
+                  </p>
+                  <p>May bear <hi>Azure</hi> on a chief gules three Roſes <hi>Or</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Mathematician.</head>
+                  <p>
+                     <figure>
+                        <figDesc>globe</figDesc>
+                     </figure>
+                  </p>
+                  <p>May bear <hi>Azure</hi> a Globe <hi>Or</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="13" facs="tcp:100852:9"/>
+                  <head>Geometrician.</head>
+                  <p>
+                     <figure>
+                        <figDesc>carpenter's square</figDesc>
+                     </figure>
+                  </p>
+                  <p>May bear <hi>Vert,</hi> a Carpenters Square <hi>Ar<g ref="char:EOLhyphen"/>gent.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Aſtronomer.</head>
+                  <p>
+                     <figure>
+                        <figDesc>ouroboros</figDesc>
+                     </figure>
+                  </p>
+                  <p>May bare <hi>Azure</hi> a Serpent biting his Tail <hi>Or</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="14" facs="tcp:100852:10"/>
+                  <head>Muſician.</head>
+                  <p>
+                     <figure>
+                        <figDesc>grasshopper</figDesc>
+                     </figure>
+                  </p>
+                  <p>May have <hi>Vert</hi> a Graſ<g ref="char:EOLhyphen"/>hopper <hi>Or</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Poet.</head>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of swan</figDesc>
+                     </figure>
+                  </p>
+                  <p>May bear <hi>Azure,</hi> a Swan proper.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Precedencies of Kings and Kingdoms.</head>
+               <p>GReat debates have been concerning the preheminance of Kings and King<g ref="char:EOLhyphen"/>doms.</p>
+               <pb n="15" facs="tcp:100852:10"/>
+               <p>How their Embaſſadors and Biſhops were placed at the Council of Conſtance, is as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p n="1">1. Firſt was placed the German ranck, to whom was united <hi>Bohemia, Hungaria, Polonia, Dalmatia, Gretia,</hi> and <hi>Croatia.</hi>
+               </p>
+               <p n="2">2. The French had place alone as a Nation abſolute.</p>
+               <p n="3">3. Next was the Engliſh, to whom was united <hi>Scotland, Norway, Denmark Sweeden,</hi> and <hi>Cyprus.</hi>
+               </p>
+               <p n="4">4. Then the Italians, who had all the Kingdoms ſubject to <hi>Rome,</hi> as <hi>Scicily, Naples,</hi> &amp;c.</p>
+               <p n="5">5. Laſtly, the Spaniards who were there hardly allowed a Nation, but in the end to be the fifth and laſt, to whom were joyned <hi>Ca<g ref="char:EOLhyphen"/>ſtilia, Arragon, Majorca, Navarra, Portugal,</hi> and <hi>Granado.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Officers of State how to take place.</head>
+               <p>THoſe of the Crown are to precede and take place of all other Nobility that are not (except of the Blood Royal.</p>
+               <list>
+                  <head>Of the Crown are</head>
+                  <item>Lord Chancelor.</item>
+                  <pb n="16" facs="tcp:100852:11"/>
+                  <item>Lord Treaſurer.</item>
+                  <item>Lord Preſident of the privy Councel</item>
+                  <item>Lord Privy Seal.</item>
+               </list>
+               <p>Theſe ſix are next. If he be a Baron to ſit above all Barons, or an Earle above all Earls, as,
+<list>
+                     <item>1. Lord great Chamberlain of <hi>England.</hi>
+                     </item>
+                     <item>2. Lord high Conſtable of <hi>England.</hi>
+                     </item>
+                     <item>3. Lord Marſhal of <hi>England.</hi>
+                     </item>
+                     <item>4. Lord Admiral of <hi>England.</hi>
+                     </item>
+                     <item>5. Lord great Maſter or Steward of the Kings Houſe.</item>
+                     <item>6. Lord Chamberlain of the Kings Houſe.</item>
+                  </list>
+               </p>
+               <p>The principal Secretary, if a Baron, above all Barons.</p>
+            </div>
+            <div type="part">
+               <head>How Gentlemen of a Civil or Military State are to take place.</head>
+               <p>DUkes, Marqueſſes, Earles, Viſcounts, and Barons, are to take their places ac<g ref="char:EOLhyphen"/>cording to the antiquity of their Title, and their Anceſtors Creation, and their Wives accordingly.</p>
+               <p>A Dukes eldeſt Son takes place as a Mar<g ref="char:EOLhyphen"/>queſs, but beneath him his Wife, beneath a Marchioneſs; if ſhe be the Daughter and Heir of a Duke, ſhe ſhall go before all Dukes eldeſt Sons Wives, but beneath a Marchio<g ref="char:EOLhyphen"/>neſs.</p>
+               <pb n="17" facs="tcp:100852:11"/>
+               <p>The youngeſt Sons of Dukes are in equal degree with an Earle, but to go beneath him.</p>
+               <p>So the eldeſt Sonne of a Marqneſs, as an Earle, and the younger as Viſcounts, their Ladies and Siſters to take place accordingly.</p>
+               <p>An Earles eldeſt Son takes place as a youn<g ref="char:EOLhyphen"/>ger Viſcount, and a younger as a Baron, their Wives and Siſters accordingly.</p>
+               <p>Viſcounts eldeſt Sons, as Barons, and their youngeſt Sons to take place with Barons el<g ref="char:EOLhyphen"/>deſt Sons, above all Knights.</p>
+            </div>
+            <div type="part">
+               <head>Taking of place from a Slave to a Baron.</head>
+               <head type="sub">
+                  <hi>Rom.</hi> 12. <hi>v.</hi> 10.</head>
+               <p>AS men here in <hi>England</hi> do and ought to precede and take place is as followeth.</p>
+               <p>Workmen and Labourers of no ſubſtance are to precede a Bondman.</p>
+               <p>Maſons before Workmen.</p>
+               <p>Watermen and Ferrymen before Maſons.</p>
+               <p>Fiſhermen before Watermen.</p>
+               <p>Marriners and Sea Souldiers before Fiſher<g ref="char:EOLhyphen"/>men.</p>
+               <p>Victuallers, Retailers of wares, and Chapmen, before them.</p>
+               <p>Artificors occupied in Arts either neceſſary or pleaſing, before Victuallers, <hi>&amp;c.</hi>
+               </p>
+               <pb n="18" facs="tcp:100852:12"/>
+               <p>Husbandmen, whoſe endeavours are imploy<g ref="char:EOLhyphen"/>ed about the fruits of the Earth before Ar<g ref="char:EOLhyphen"/>tificers.</p>
+               <p>A Gentleman is to precede a Husbandman, a Gentleman that has Title ſhall go before others, as a Doctor, being a Gentle man, before others.</p>
+               <p>A Gentleman Graduate before a graduate <hi>tantum.</hi>
+               </p>
+               <p>A Gentleman qualified with learning and ver<g ref="char:EOLhyphen"/>tue is before a Gentleman rich onely.</p>
+               <p>A Gentleman advanced for vertue ſhall be preferred before a Gentleman by Office.</p>
+               <p>An Eſquire by Office is to precede a Gentle<g ref="char:EOLhyphen"/>man.</p>
+               <p>An Eſquire by creation to precede him.</p>
+               <p>An Eſquire by Birth him.</p>
+               <p>A Knight Batchelor is to go before an Eſ<g ref="char:EOLhyphen"/>quire.</p>
+               <p>A Baronet before a Knight.</p>
+               <p>A Knight Bannorer before him.</p>
+               <p>A Baron before him.</p>
+               <p>If a man of wealth, as a Merchant, <hi>&amp;c.</hi> pur<g ref="char:EOLhyphen"/>chaſe a Barony, he ought not to have place amongſt Barons.</p>
+               <p>A Father that hath a Son that beareth Office ſhall give place to his Son in publick meet<g ref="char:EOLhyphen"/>ing, except in private.</p>
+               <p>Between two equals, he that is in his own Ju<g ref="char:EOLhyphen"/>riſdiction ſhall precede.</p>
+               <pb n="19" facs="tcp:100852:12"/>
+               <p>A Citizen of a chief City is to take place of a Citizen of a meaner City in any place in<g ref="char:EOLhyphen"/>different, unleſs in their own precincts.</p>
+               <p>Inferior Juſtices, Collonels, Captains in the Field, are to precede Captains of particular Caſtles, Judges in Towns Corporate, where no action is triable above 15. <abbr>l</abbr> The firſt are right Worſhipful, the ſecond only Worſhipful.</p>
+               <p>Judges, Governours, or Lieutenants Gene<g ref="char:EOLhyphen"/>rals of Provinces, Cities, <hi>&amp;c.</hi> are to take place of inferiour Juſtices, Collonels, <hi>&amp;c.</hi> Theſe are honourable.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Orders of Knighthood in</hi> England <hi>and the Chri<g ref="char:EOLhyphen"/>ſtian World.</hi>
+               </head>
+               <p>FOr the incouraging of vertuous mindes and generous ſpirits, Princes and Eſtates thought good to erect ſeveral orders of Knighthood; here in <hi>England</hi> are onely theſe, <hi>viz.</hi>
+               </p>
+               <div type="section">
+                  <p n="1">1. Knights of the Garter, or St. <hi>George,</hi> whoſe Enſign is Argent, a plain Croſs gules.</p>
+                  <p>This Order was inſtituted by <hi>Edward</hi> the Third, after a return from the Wars againſt the French and Scots with victory; but o<g ref="char:EOLhyphen"/>thers affirm it was from the Kings wearing the Counteſs of <hi>Satisburyes</hi> Garter, which
+<pb n="20" facs="tcp:100852:13"/>cauſed jealouſie in the Queen: whereupon the Motto is riſen, <hi>Honi ſoit qui male penſe.</hi> But that fable may probably be riſen by the French to abate the honour of the Victory.</p>
+                  <p>The Patron of this Order is St. <hi>George,</hi> the Sovereign, the King, the number 26.</p>
+                  <p>The Officers, Biſhop of <hi>Wincheſter,</hi> a Chancelor, Regiſter, a King at Arms, called Garter, and an Uſher called the Black Rod.</p>
+               </div>
+               <div type="section">
+                  <head>Knight of the Bath.</head>
+                  <p>The Creation of the Knight of the Bath is with much Ceremony, Sir <hi>William Seager</hi> fully declares it in his Book.</p>
+                  <p>The Title is very ancient, for Sir <hi>Albane</hi> a Brittain was at <hi>Rome,</hi> by <hi>Diocleſian</hi> the Emper<g ref="char:EOLhyphen"/>our, made Knight of the Bath.</p>
+                  <p>They are diſtinguiſhed by wearing a red Ribband croſs the left ſhoulder, as the Knights of the Garter are by wearing a blue one.</p>
+               </div>
+               <div type="section">
+                  <head>Knights of the Round Table.</head>
+                  <p>This Order was moſt noble in the world heretofore: it was erected here in <hi>England</hi> by King <hi>Arthur:</hi> their place of convention was at <hi>Wincheſter,</hi> where they had their round Table at the Feaſt of Pentecoſt: But others
+<pb n="21" facs="tcp:100852:13"/>are of opinion it was at <hi>Windſor,</hi> which wa<g ref="char:EOLhyphen"/>built by King <hi>Arthur.</hi> They remain at <hi>Wind for.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Orders of Knighthood in Forreign Parts.</head>
+               <div type="section">
+                  <head>Knight, of the Toizon or Golden Fleece.</head>
+                  <p>THis Order was inſtituted by <hi>Philip</hi> Duke of <hi>Burgundy, Anno</hi> 1429. Being mo<g ref="char:EOLhyphen"/>ved thereunto with a zeal he had to conquer the Holy Land. He elected for Patron St. <hi>Andrew.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Knights of St.</hi> Michael.</head>
+                  <p>This Order was erected by <hi>Lewis</hi> the 11th. French King, 1469. The reaſon that moved him to this Order (as is reported) was the memory of an apparition of St. <hi>Michael</hi> up<g ref="char:EOLhyphen"/>on the Bridge of <hi>Orleance,</hi> when it was be<g ref="char:EOLhyphen"/>ſieged by the Engliſh.</p>
+               </div>
+               <div type="section">
+                  <head>Knights of the Annuntiation.</head>
+                  <p>This order was about the ſame time alſo begun by <hi>Amedo</hi> Count of <hi>Savoy,</hi> in memory of <hi>Amedo</hi> the firſt Earl, who valourouſly defended the Iſland of the Roads againſt the Turks, and won
+<pb n="22" facs="tcp:100852:14"/>the Armes from them, which is now borne by the Dukes of <hi>Savoy, viz. gu.</hi> a Croſs Ar<g ref="char:EOLhyphen"/>gent.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Knights of St.</hi> Elprit.</head>
+                  <p>This Order was inſtituted by <hi>Henry</hi> the third, King of <hi>France</hi> and <hi>Poland, Anno</hi> 1578. Becauſe on that day which is Penticoſt the Polands and Lutivanians elected him for their King.</p>
+               </div>
+               <div type="section">
+                  <head>Knights Templers.</head>
+                  <p>This Order was firſt ſet out on foot in the Year 1117. By nine Gentlemen who hap<g ref="char:EOLhyphen"/>pened to meet in the holy Land. Their firſt imployment was to ſecure the way for Pil<g ref="char:EOLhyphen"/>grims againſt Robbers, but afterwards they grew potent all the world over.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Knights of St.</hi> James.</head>
+                  <p>It was erected in <hi>Spain, Anno</hi> 1030. By certain Spaniſh Gentlemen that fled to the Mountains, when the Arabians had well near conquered that Nation, who not induring to live under that barbarous government aſſo<g ref="char:EOLhyphen"/>ciated, and in time relieved their Nation.</p>
+               </div>
+               <div type="section">
+                  <pb n="23" facs="tcp:100852:14"/>
+                  <head>
+                     <hi>Knights of St.</hi> John <hi>of</hi> Jeruſalem, <hi>now called Knights of</hi> Malta.</head>
+                  <p>It was erected firſt at <hi>Jeruſalem</hi> ſomewhat before the Chriſtians conquered <hi>Jeruſalem,</hi> they had leave of Sarazens to build them a houſe near the Sepulchre of Chriſt, calling it St. <hi>John Baptiſt.</hi> The great Maſter <hi>Reynoldus</hi> commanded all Knights of this Order where<g ref="char:EOLhyphen"/>ever diſperſed. Their firſt atchievement was the conquering of the Iſland of <hi>Roads,</hi> which afterwards being loſt, they ſince have remain<g ref="char:EOLhyphen"/>ed in the Iſland <hi>Malia.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Knights of</hi> Calatrava.</head>
+                  <p>This Order was begun <hi>Anno</hi> 1130 in imita<g ref="char:EOLhyphen"/>tion of the Order of St. <hi>Jago:</hi> they were ſo named of the Province where they were made and ſettled, where was the Chief Church of the Templers, who being not of power ſufficient to reſiſt the Sarazens, were forced to give place to theſe Knights. Their founder was <hi>Don Santio</hi> King of <hi>Toledo.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Knights of the Band.</head>
+                  <p>This Order was firſt erected by <hi>Alphouſo.</hi> King of <hi>Spain,</hi> 1268. The reaſon that moved
+<pb n="24" facs="tcp:100852:15"/>the King to name them Knights of the Band, was, he commanded every man of the Order to wear a red Scarf.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Knights of the Order of</hi> Alcantara.</head>
+                  <p>Theſe Knights lived in effect under the Order of <hi>Calatrava;</hi> they wear a green Croſs; near unto the City of <hi>Alcantara</hi> they have a Church of great beauty.</p>
+               </div>
+               <div type="section">
+                  <head>Knights of Montelio.</head>
+                  <p>Theſe Knights do wear a red Croſs. Their Order began near about the time that the Knights of <hi>Calatrava</hi> took beginning. They live in <hi>Valentia.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Knights of Redemption.</head>
+                  <p>Theſe Knights were erected in the King<g ref="char:EOLhyphen"/>dom of <hi>Aragon,</hi> by King <hi>James</hi> who conquer<g ref="char:EOLhyphen"/>ed the Iſlands <hi>Mojorca</hi> in the year 1212. Their Office is to redeem Priſoners. The chief Go<g ref="char:EOLhyphen"/>vernour remains at <hi>Barcellona.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Knights Teutonici.</head>
+                  <p>The beginner of this Knighthood was a certain Allmaine; who after the taking of <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi>
+                     <pb n="25" facs="tcp:100852:15"/>by the Chriſtians; remained there, and kept a liberal houſe for Pilgrims; at laſt they entred into aſſociation: they wore a black Croſs voided with a croſs patonce. None were to be of the order but thoſe of the Dutch Nation. At length <hi>Jeruſalem</hi> being taken by the Sarazens, they returned to <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> where their Order was confirmed by the Emperor.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Knights of St.</hi> Mary.</head>
+                  <p>In Pope <hi>Urbane</hi> the 4th's time, certain Gentlemen of <hi>Bolognia</hi> and <hi>Modona</hi> deſired of the Pope leave to erect a new Order of Re<g ref="char:EOLhyphen"/>ligious Knighthood, which for money they obtained.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Knights of St.</hi> Lazero.</head>
+                  <p>Theſe Knights do plead great antiquity, as that they lived in the time of St. <hi>Baſil.</hi> The Emperor <hi>Barbaroſa</hi> gave them great poſſeſ<g ref="char:EOLhyphen"/>ſions: The Order was well near extinct, till of late <hi>Pius Quartus</hi> the Pope did revive it, and made a noble Gentleman of <hi>Millan</hi> their great Maſter. They wear a green Croſs.</p>
+               </div>
+               <div type="section">
+                  <pb n="26" facs="tcp:100852:16"/>
+                  <head>
+                     <hi>Knights of St.</hi> Stephano.</head>
+                  <p>In the year 1561, <hi>Coſmo</hi> Duke of <hi>Florence,</hi> living in peaceable eſtate, erected this order. They wear a red Croſs bordered with Gold.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Degrees of Gentlemen.</head>
+               <p>THe Civil Law has formerly been ſo ſe<g ref="char:EOLhyphen"/>vere in preſerving this diſtinction, that the Gentile or Noble were prohibited to mar<g ref="char:EOLhyphen"/>ry with the Ungentile or ignoble.</p>
+               <div type="section">
+                  <head>Who are Gentlemen.</head>
+                  <p n="1">1. He is a Gentleman which is one of An<g ref="char:EOLhyphen"/>ceſtry; for certainly the honour atchieved by the Anceſtor lives in his Family as his, which ought to oblige them with care to keep that tenderly which there predeceſſors got ſo difficultly.</p>
+                  <p n="2">2. A Gentleman of Coat Armour and not of Blood, being made a Gentleman by a Badge from the King of Coat Armour.</p>
+                  <p n="3">3. A Gentleman by atchievement in law<g ref="char:EOLhyphen"/>ful wars, proclaimed by the King in matters of Religion, or for the Kingdoms good, which is the beſt.</p>
+               </div>
+               <div type="section">
+                  <pb n="27" facs="tcp:100852:16"/>
+                  <head>A Gentleman.</head>
+                  <p>In the Saxon language they were called <hi>Aedels,</hi> which ſignifieth Elder, or Chief; but we have ſince from the French Borrowed the Roman word <hi>Gentilehome,</hi> which imports men of Nations.</p>
+                  <p>The word <hi>Gentiles</hi> was given to the Nor<g ref="char:EOLhyphen"/>thern people during the Government of the Romans over them; they then taking it to be a glory to them, though otherwiſe meant by the Romans.</p>
+                  <p>The priviledges that belongs to a Gentle<g ref="char:EOLhyphen"/>man: Read Sir <hi>Will. Seager.</hi>
+                  </p>
+                  <p>For the Helmets that belongs to each de<g ref="char:EOLhyphen"/>gree of Gentlemen: Look on <hi>Guillianus.</hi>
+                  </p>
+                  <p>And for their Crowns: See <hi>Carter.</hi>
+                  </p>
+                  <p>Their degrees in <hi>England</hi> are divided, <hi>viz.</hi>
+                  </p>
+                  <list>
+                     <item>1. An Eſquire.</item>
+                     <item>2. A Knight.</item>
+                     <item>3. A Baron.</item>
+                  </list>
+                  <p>Theſe three are eſteemed noble; beſides there are five which are excellent, to whom belongs Crowns and Coronets: as</p>
+                  <list>
+                     <item>1. A Viſcount.</item>
+                     <item>2. An Earle.</item>
+                     <item>3. A Marqueſs.</item>
+                     <item>4. A Duke.</item>
+                     <pb n="28" facs="tcp:100852:17"/>
+                     <item>5. A Prince.</item>
+                  </list>
+                  <p>Our gracious King <hi>Charles</hi> the Second has allowed Crowns to Barons.</p>
+                  <p>In Latine he is called <hi>Scutiger;</hi> of theſe each Knight in times paſt had two to attend him in Wars, and to bear his Helmet and Shield before him: foraſmuch as they did hold certain Lands of him in Scutage, as the Knight did hold of the King by Military ſer<g ref="char:EOLhyphen"/>vice,</p>
+                  <p>This title came not in honorary amongſt us till the Reign of <hi>Richard</hi> the Second; though the Title, as to the Office, is far more ancient. The ancient Saxon word is <hi>Scyld<g ref="char:EOLhyphen"/>knappa,</hi> which is a Shield Serviture.</p>
+               </div>
+               <div type="section">
+                  <head>Degrees of an Eſquire.</head>
+                  <p n="1">1. There is an Eſquire by Birth, as the eldeſt Son of a Knight, and his eldeſt Sonne ſucceſſively.</p>
+                  <p n="2">2. By Creation, to whom belongs the ſilver Spurs, whence they are called white Spurs,</p>
+                  <p n="3">3. By Office; as Serjeants at Law, She<g ref="char:EOLhyphen"/>riffs, <hi>&amp;c.</hi> But to them the Title dyes with them.</p>
+               </div>
+               <div type="section">
+                  <pb n="29" facs="tcp:100852:17"/>
+                  <head>A Knight Batchelor.</head>
+                  <p>The word Knight cometh from the Saxon word <hi>Cnight,</hi> which ſignifieth <hi>puer,</hi> or <hi>ſer<g ref="char:EOLhyphen"/>vus.</hi>
+                  </p>
+                  <p>The French calls them <hi>Chaveleers,</hi> the Ger<g ref="char:EOLhyphen"/>man <hi>Rutter,</hi> both of riding or luſty young men.</p>
+                  <p>Since the Conqueſt, thoſe that held Eſtates to ſerve on horſe-back in the Wars, are by the Lawyers ſtiled <hi>Milites.</hi>
+                  </p>
+                  <p>Coming to be a reward and degree of Ho<g ref="char:EOLhyphen"/>nour is thought to be in imitation of the Equeſtres Order in <hi>Rome.</hi>
+                  </p>
+                  <p>The firſt uſing of Ceremonies at the crea<g ref="char:EOLhyphen"/>ting a Knight was done by King <hi>Alfred,</hi> Knighting his Grand-ſon <hi>Ethelſton;</hi> after it grew more preciſe and cuſtomary.</p>
+               </div>
+               <div type="section">
+                  <head>Knights Titles.</head>
+                  <list>
+                     <item>1. Knight Bannoret.</item>
+                     <item>2. Knight Baronet.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>A Knight Bannoret.</head>
+                  <p>This was anciently an Order in <hi>France.</hi>
+                  </p>
+                  <p>At his Creation he is led to the King or General, with his Penon of Arms in his
+<pb n="30" facs="tcp:100852:18"/>hand and there the Herauld declares his me<g ref="char:EOLhyphen"/>rit, and the King or General cauſeth the point of his Penon to be rent off, and he re<g ref="char:EOLhyphen"/>turns with Trumpet ſounding.</p>
+                  <p>Under the degree of a Knight Bannoret Supporters may not be born.</p>
+               </div>
+               <div type="section">
+                  <head>A Knight Barronet.</head>
+                  <p>This Title was erected by King <hi>James,</hi> for the propagation of a Plantation in <hi>Ulſter</hi> in <hi>Ireland.</hi>
+                  </p>
+                  <p>It is hereditary, they are to take place before all Knights Batchelors, or Knight of the Bath.</p>
+                  <p>Their Augmentation is on a <hi>Canton Argent</hi> a Seniſter <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>and <hi>couped gules.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A Baron.</head>
+                  <p>This word is variouſly interpreted, as from the word <hi>Baria,</hi> which ſignifies grave authority; or <hi>Baro</hi> which in Latine is the ſame with <hi>Vir,</hi> which imports force.</p>
+                  <p>The <hi>Danes</hi> were the firſt which brought in the uſe of this word.</p>
+                  <p>The Saxons called the next to the King <hi>Thane,</hi> as <hi>Thane</hi> of ſuch a Caſtle, Town, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="31" facs="tcp:100852:18"/>
+                  <head>A Viſcount.</head>
+                  <p>The word in Latine is <hi>Vice Comes,</hi> which is interpreted from the Office of the perſon: he is one to whom an Earle or his Lord com<g ref="char:EOLhyphen"/>mitteth his Towns, or Government of a Ca<g ref="char:EOLhyphen"/>ſtle.</p>
+                  <p>The title is derived from the ſame Order in <hi>France,</hi> where they were onely ſubſtitutes to Earles, till getting in power, got alſo to have the power honorary and hereditary.</p>
+                  <p>It is the ſame word which is for our She<g ref="char:EOLhyphen"/>riff, and began with us not till about the 18. of <hi>Henry</hi> the Sixth, who then created <hi>John</hi> Lord <hi>Beamont</hi> Viſcount by Letter Patent.</p>
+               </div>
+               <div type="section">
+                  <head>An Earle.</head>
+                  <p>An Earle or Count is called <hi>Comes:</hi> The reaſon for that denomination is uncertain.</p>
+                  <p>The word Earle we had from the Danes from the word <hi>Earlick,</hi> which ſignifieth ho<g ref="char:EOLhyphen"/>nourable,</p>
+                  <p>They were ſtiled <hi>Ealdermen,</hi> till <hi>Cannius</hi> time the Dane.</p>
+                  <p>Their Dignity and power heretofore was far more large then now. <hi>Selden</hi> is of opini<g ref="char:EOLhyphen"/>on they are in Latine called <hi>Comes</hi> of the ſo<g ref="char:EOLhyphen"/>ciety the King has with them.</p>
+               </div>
+               <div type="section">
+                  <pb n="32" facs="tcp:100852:19"/>
+                  <head>A Marqueſs.</head>
+                  <p>This word was firſt uſed to <hi>Earles</hi> and <hi>Ba<g ref="char:EOLhyphen"/>rons,</hi> that were Lord Marches, or Lords of Fronteers, and came afterwards into a Title of ſpecial Dignity above an Earle.</p>
+                  <p>The title began in the time of <hi>Richard</hi> the Second.</p>
+                  <p>The French and Germans prefer an Earle before a Marqueſs, which is prepoſterous.</p>
+               </div>
+               <div type="section">
+                  <head>A Duke.</head>
+                  <p>The word at firſt was a title of Office, af<g ref="char:EOLhyphen"/>terwards honorary, and ſince hereditary.</p>
+                  <p>The word comes <hi>à Ducendo,</hi> from leading forch an Army Royal: The Saxons called them, <hi>Hertſhog.</hi>
+                  </p>
+                  <p>The firſt we finde in <hi>England</hi> was <hi>Edward</hi> the Black Prince.</p>
+               </div>
+               <div type="section">
+                  <head>A Prince.</head>
+                  <p>In the Saxons time they were called <hi>Clitons,</hi> from <hi>Klutos</hi> in Greek, which is illuſtrious.</p>
+                  <p>The firſt that was created in <hi>England</hi> was <hi>Edward,</hi> the eldeſt Son of <hi>Henry</hi> the 3d.</p>
+                  <p>There are degrees of Nobility, as of Na<g ref="char:EOLhyphen"/>tions, and Cities.</p>
+                  <pb n="33" facs="tcp:100852:19"/>
+                  <p>For the Ceremonies at the Creating of the aforeſaid Gentlemen, read Sir <hi>William Sea<g ref="char:EOLhyphen"/>ger</hi> and <hi>Fern.</hi>
+                  </p>
+                  <p>And for their priviledges read likewiſe <hi>Seager</hi> and <hi>Selden.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Ancient form of Government.</head>
+               <p>'TIs upon good grounds concluded that the ancient Form of Government was, <hi>viz.</hi> Under the King was ſubſtituted ten Dukes, under one Arch-Biſhop ten Biſhops, under one Duke ten Earles, under an Earle ten Barons, under a Baron ten Chatellanes or Conſtables, unto whom was committed the keeping of ſome Caſtle, or Fort; under every Conſtable fifty men.</p>
+            </div>
+            <div type="part">
+               <head>Significations of Charges and Deviſes in Coats.</head>
+               <p>A Helmet, ſignifies Direction and Com<g ref="char:EOLhyphen"/>mand.</p>
+               <p>A ſide-long Helmet denotes Attention and Obedience.</p>
+               <p>A Helmet full forward and open fac'd; be<g ref="char:EOLhyphen"/>tokeneth Authority, Direction, and Com<g ref="char:EOLhyphen"/>mand.</p>
+               <p>A Croſs, it was firſt beſtowed on ſuch as
+<pb n="34" facs="tcp:100852:20"/>had performed, or at leaſt undertaken ſome ſervice for Chriſt or Chriſtian profeſſion.</p>
+               <p>A Chief, ſignifies a Senator, or honoura<g ref="char:EOLhyphen"/>ble Man.</p>
+               <p>A Pale, denotes the firſt bearer to have de<g ref="char:EOLhyphen"/>ſerved well by ſome Stratagem of Mining.</p>
+               <p>A Bend, it ſignifies the bearer to have been one of the firſt which mounted upon the enemies wall.</p>
+               <p>Eſcutcheon, 'tis ancient bearing. <hi>Burley</hi> in the time of <hi>Richard</hi> the Second bore an Eſchutcheon.</p>
+               <p>A Cheveron, it betokeneth to the bearer the atchieving of ſome buſineſs of moment, or the finiſhing of ſome chargeable or me<g ref="char:EOLhyphen"/>morable work.</p>
+               <p>Saltire, befits rich and covetous people, ſuch as would not willingly go from their ſubſtance.</p>
+               <p>A Bar, may be implied to him whoſe in<g ref="char:EOLhyphen"/>vention, induſtry, and labour has ſo fenced or forfeited the Camp, City, or Fort, that the Enemies thereby receiveth a damage.</p>
+               <p>A Maſcle, In Armory it ſignifieth the Bearer thereof in a Field <hi>Gules</hi> to have been moſt prudent and politick in ſtratagems of War.</p>
+               <p>A Hart, denotes a man wiſe and politick, that foreſeeth his time, and ſtands to his own guard honeſtly, then annoy raſhly or wrong<g ref="char:EOLhyphen"/>fully.</p>
+               <pb n="35" facs="tcp:100852:20"/>
+               <p>A Lion. A Lion in a Field Sables in Armory betokeneth fortitude, a vertue that ſignteth in defence of equity.</p>
+               <p>Salient is honourable for ſome egregious ſervice done for his Countrey.</p>
+            </div>
+            <div type="part">
+               <head>Charges and Devices, their ſignifications in Armory.</head>
+               <p>
+                  <hi>An Adder.</hi> THe bearing of Serpents, Adders, or Snakes, de<g ref="char:EOLhyphen"/>notes the bearer to be very prudent and ſubtle, which he improves and makes uſe of to compaſs his own ends, though never ſo baſe.</p>
+               <p>
+                  <hi>A Bore.</hi> He betokeneth in Herauldry a man of a bold ſpirit, skilful and politick in War, and one of that reſolution that he will dye valorouſly in the Field, rather then ſe<g ref="char:EOLhyphen"/>cure himſelf by ignominous flight.</p>
+               <p>
+                  <hi>A Uniconn.</hi> He ſignifieth ſtrength and cou<g ref="char:EOLhyphen"/>rage, and likewiſe denotes a valient Souldi<g ref="char:EOLhyphen"/>er that contemneth death, and rather then he will be compelled to undergo any baſe ſervi<g ref="char:EOLhyphen"/>tude or bondage he will loſe his life.</p>
+               <p>
+                  <hi>A Wolf.</hi> This befits them in Parliaments and places of great aſſembly, who are ac<g ref="char:EOLhyphen"/>cuſtomed to wrangle and ſhew themſelves comentious.</p>
+               <pb n="36" facs="tcp:100852:21"/>
+               <p>
+                  <hi>A Sphinx.</hi> It denotes a man of a cunning genius, full of inventions, but tyrannical and monſtrous in his actings.</p>
+               <p>
+                  <hi>Heads,</hi> &amp;c. The bearing of the Head (next to the whole bearing) is moſt honour<g ref="char:EOLhyphen"/>able; it ſhews that the owner of ſuch Coat Armour was not forced to ſtand to the face of his enemy. It betokeneth likewiſe juriſ<g ref="char:EOLhyphen"/>diction and juſtice.</p>
+               <p>
+                  <hi>A Goat.</hi> This ſhews that the bearer uſed more policy then valour in atchieving a Vi<g ref="char:EOLhyphen"/>ctory, and got his honour by ſome ſuch means.</p>
+               <p>
+                  <hi>A Hedge.</hi>-Hog. He denotes a man expert in gathering of ſubſtance, and one that providently layeth hold upon proffered op<g ref="char:EOLhyphen"/>portunities.</p>
+               <p>
+                  <hi>A Toad.</hi> The bearing of Toads doth ſig<g ref="char:EOLhyphen"/>nifie a haſty chollerick man, that is eaſily ſtirred up to anger, whereunto he is natu<g ref="char:EOLhyphen"/>rally prone, proceeding from his Birth.</p>
+               <p>
+                  <hi>An Eagle.</hi> He ſignifies in Herauldry true Magnanimity, and fortitude of minde, which never ſeeks to combate with ſmall ones, but his equal.</p>
+               <p>
+                  <hi>Wings of Birds.</hi> In Armory betokeneth pro<g ref="char:EOLhyphen"/>jection.</p>
+               <p>
+                  <hi>Swallow.</hi> Denotes one that is induſtrious, prompt, and ready to diſpatch buſineſs.</p>
+               <p>
+                  <hi>A Stork.</hi> Signifies one that is grateful and dutiful children.</p>
+               <pb n="37" facs="tcp:100852:21"/>
+               <p>
+                  <hi>An Owl.</hi> Denotes prudence, vigilance, and watchfulneſs; and it ſhews alſo a me<g ref="char:EOLhyphen"/>lancholly temper, ſhunning company, and loſing ſolitarineſs.</p>
+               <p>
+                  <hi>A Faulcon.</hi> Shews that he that bore him firſt was ſuch a one as did eagerly perſue, vex, and moleſt poor and ſilly creatures, and may likewiſe be taken for ſpeedy perfor<g ref="char:EOLhyphen"/>mance in any buſineſs.</p>
+               <p>
+                  <hi>A Cock.</hi> Signifieth one that rejoyceth for his Victory.</p>
+               <p>
+                  <hi>Military Inſtruments.</hi> Any Military inſteu<g ref="char:EOLhyphen"/>ment either defenſive, or offenſive, or other accidents of War is very honourable.</p>
+               <p>
+                  <hi>Eſcallop.</hi> 'Tis recorded in the Office of Arms, that the bearing of Eſcollops ſignifi<g ref="char:EOLhyphen"/>eth, the firſt bearer to have been a Com<g ref="char:EOLhyphen"/>mander, who by his vertues and valour had ſo gained the hearts and love of his Soul<g ref="char:EOLhyphen"/>diers, and companions in Arms, that they deſired much to follow him, even into dan<g ref="char:EOLhyphen"/>gers mouth.</p>
+               <p>
+                  <hi>A Moon decreſſant.</hi> This ſhews a man to do ſomething, whereby he is advanced to honour in his old age.</p>
+               <p>A <hi>Star.</hi> A Star denotes the inconſtancy of high fortune, and unſure footing of ambi<g ref="char:EOLhyphen"/>tious aſpirers; which are famous for a time, but fall headlong from their high hopes.</p>
+               <p>
+                  <hi>A Mulles.</hi> A Mullet in Herauldry has a
+<pb n="38" facs="tcp:100852:22"/>noble ſignification; it denotes ſome divine quality beſtowed from above, whereby men do ſhine in vertue, learning, and works of piety.</p>
+               <p>A <hi>Garb or Sheaf.</hi> It ſignifieth plenty, or abundance, and that the firſt bearer did de<g ref="char:EOLhyphen"/>ſerve well for his hoſpitality.</p>
+               <p>A <hi>Cinquefoil.</hi> Denotes a man that maſters his affections; and conquers his ſences, and one that has overcome his enemy, not onely by valour but wiſdom; 'tis ancient bear<g ref="char:EOLhyphen"/>ing.</p>
+               <p>
+                  <hi>Shakblot.</hi> It ſignifies the detaining his E<g ref="char:EOLhyphen"/>nemy priſoner which he took; alſo 'tis gi<g ref="char:EOLhyphen"/>ven to ſuch a brave ſpirit, who by his prow<g ref="char:EOLhyphen"/>eſs can fetch off with ſtrength, or by his charity redeem his fellow Souldier from pri<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>A <hi>Swan.</hi> Denotes a learned man, and one that knows beſt how to contemn this life, and to dye with reſolution and com<g ref="char:EOLhyphen"/>fort.</p>
+               <p>A <hi>Horſe.</hi> A Horſe ſignifieth one that vannteth after victory, and dejected if con<g ref="char:EOLhyphen"/>quered.</p>
+               <p>A <hi>Turnip.</hi> Denotes a man of a good diſ<g ref="char:EOLhyphen"/>poſition, whoſe vertuous demeanour flou<g ref="char:EOLhyphen"/>riſheth proſperouſly, even where envy moſt abounds.</p>
+               <p>
+                  <hi>Conies.</hi> The firſt bearer of this Beaſt ſeem<g ref="char:EOLhyphen"/>ed
+<pb n="39" facs="tcp:100852:22"/>to be very skilful in pyoning, and lucky in undermining and ſubverting of Cities, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Caſtles and Towers.</hi> The bearing of Caſtles and Towers ſhews that the hearer ſtood care<g ref="char:EOLhyphen"/>fully upon his guard, though continually af<g ref="char:EOLhyphen"/>failed with ſpiritual and corporeal enemies, that ceaſed not to plot his deſtruction.</p>
+               <p>Obſerve that when the Architecture ex<g ref="char:EOLhyphen"/>tendeth it ſelf from one ſide of the Field, then it muſt be named a Caſtle. If Turrited, name how many.</p>
+               <p>
+                  <hi>Bridges.</hi> The bearing of Bridges and Ar<g ref="char:EOLhyphen"/>ches ſignifies the cares, and patient ſtability of men in Magiſtracy, who muſt endure the taunts, aſſaults and envy of the diſcontent<g ref="char:EOLhyphen"/>ed vulgar.</p>
+               <p>
+                  <hi>Squirrel.</hi> The bearing of a Squirrel ſhews that the bearer of this was careful in keep<g ref="char:EOLhyphen"/>ing the love and affection of his followers, and retainers, and is ſure they will ſtick to him in time of need.</p>
+               <p>
+                  <hi>Pellican.</hi> The Pellican denotes that the bearer was diligent in the education and in<g ref="char:EOLhyphen"/>ſtructing his Children in learning.</p>
+               <p>A <hi>Peacock.</hi> The bearing of this Bird ſhew<g ref="char:EOLhyphen"/>eth that the bearer admired himſelf, though he was of a dirty condition.</p>
+               <p>
+                  <hi>Leopard.</hi> This Beaſt ſhews that the bear<g ref="char:EOLhyphen"/>er was of a violent ſpirit, but ſubtle: and to prevent one bearing of his Superiours for
+<pb n="40" facs="tcp:100852:23"/>want of ſtrength, uſed policy for the com<g ref="char:EOLhyphen"/>paſſing of his ends.</p>
+               <p>
+                  <hi>Reremouſe.</hi> The bearing of this creature ſhews that the bearer having ſmall means, and weak power, either of nobility or for<g ref="char:EOLhyphen"/>tune, or yet ſtored with pregnancy of wit, hath nevertheleſs ſtepped up ſo ſuddenly as he ſeems not to be ſupported by the earth, but to be elevated above the ſame.</p>
+               <p>
+                  <hi>Panther.</hi> This denotes that the bearer was of that ſweet diſpoſition, as that he drew all men to love him.</p>
+               <p>
+                  <hi>Dragon.</hi> This ſhews that the bearer was of that violent ſpirit, and ſo imperious in his carriage, as that moſt men did fear him.</p>
+               <p>
+                  <hi>Elephant.</hi> The Elephant ſhews that the bearer was of great ſtrength, but of great<g ref="char:EOLhyphen"/>er wit, and greateſt ambition.</p>
+               <p>
+                  <hi>An Aſſe.</hi> The Aſſe ſhews that the bearer had, and ought to have much patience.</p>
+               <p>
+                  <hi>Camel.</hi> This Beaſt denotes that the bear<g ref="char:EOLhyphen"/>er was obedient and ſwift in the diſpatch of his buſineſs.</p>
+               <p>A <hi>Bear.</hi> The Bear denotes that the bearer uſed no leſs pollicy then ſtrength in fighting.</p>
+               <p>A <hi>Dog.</hi> He ſhews that the bearer not only loved his pleaſure abroad, but minded his profit at home.</p>
+               <p>A <hi>Fox.</hi> Foxes become Lawyers, who when they have done, and well ſpunged their Cli<g ref="char:EOLhyphen"/>ents, laugh at them.</p>
+               <pb n="41" facs="tcp:100852:23"/>
+               <p>A <hi>Plough.</hi> The bearing of a Plough with their mechanical inſtruments of husbandry ſhews that the bearer by his induſtry had been beneficial to the Common-wealth.</p>
+               <p>A <hi>Pickax.</hi> This acquaints the bearer, though of nobleſt and ancient blood, hath lit<g ref="char:EOLhyphen"/>tle cauſe to be proud, if he looks unto the pit whence he was firſt digged.</p>
+               <p>A <hi>Square.</hi> This inſtrument ſhews that the bearer did nothing raſhly, or at adventure, but by moderation and rules in perfor<g ref="char:EOLhyphen"/>mance.</p>
+               <p>
+                  <hi>An Ape,</hi> The bearing of this Beaſt ſhews that the bearer took more delight in ridicu<g ref="char:EOLhyphen"/>lous jeaſtings then ſerious actings.</p>
+               <p>A <hi>Roſe.</hi> The bearing of the Roſe ſhews that the bearer in joyed ſome good, though environed on all ſides with evil.</p>
+               <p>Obſerve if you ſee any Beaſt, Bird, Flow<g ref="char:EOLhyphen"/>er, <hi>&amp;c.</hi> in its proper colour, you muſt bla<g ref="char:EOLhyphen"/>zon it by no colour, but ſay proper.</p>
+               <p>Likewiſe obſerve, when you ſee any quick thing born in Arms, it is moſt commendable to bear it, according to the moſt nobleſt and worthieſt action of the Creature; as a Lion paſſant, a Grayhound running, a Fiſh nay<g ref="char:EOLhyphen"/>ant, any Fowl volant, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:100852:24"/>
+               <head>
+                  <hi>The Names of the Parties and Nations that In<g ref="char:EOLhyphen"/>vented Inſtruments Military and Mechanical,</hi> &amp;c. <hi>Mentioned in this Book.</hi>
+               </head>
+               <p>
+                  <hi>Lacedemonians.</hi> THey invented the Hel<g ref="char:EOLhyphen"/>met, as <hi>Heroditus</hi> af<g ref="char:EOLhyphen"/>firmeth.</p>
+               <p>
+                  <hi>Moſes.</hi> Did firſt ordain Crowns, but <hi>Pliny</hi> aſcribes it to <hi>Liber Bacchus.</hi>
+               </p>
+               <p>
+                  <hi>Petrus</hi> and <hi>Acriſius.</hi> They did firſt deviſe Shields as they fought together.</p>
+               <p>
+                  <hi>Tuſcans,</hi> Invented Mantles of Eſtate, Em<g ref="char:EOLhyphen"/>broidered Gowns, <hi>&amp;c. Tarquinus ſuperbus</hi> brought their uſe to <hi>Rome,</hi>
+               </p>
+               <p>
+                  <hi>Tyrants againſt Chriſtians.</hi> Invented, as <hi>Fern</hi> ſayes, the Saltire, which they uſed as an Engine to torture, to rend in pieces the Chri<g ref="char:EOLhyphen"/>ſtians.</p>
+               <p>
+                  <hi>Dioniſius.</hi> He invented firſt the tilling of ground; but <hi>Virgil</hi> ſayes it was <hi>Ceres.</hi>
+               </p>
+               <p>
+                  <hi>Bellerophon.</hi> Found out the riding and re<g ref="char:EOLhyphen"/>claiming of Horſes.</p>
+               <p>
+                  <hi>Dedalus.</hi> Was the firſt inventer of Squares.</p>
+               <p>
+                  <hi>Rome.</hi> They firſt uſed Rings on their fin<g ref="char:EOLhyphen"/>gers, and Male Coats.</p>
+               <p>A <hi>Nation in Theſaly.</hi> Found out the Bar<g ref="char:EOLhyphen"/>nacle, and other inſtruments for riding and taming of Horſes.</p>
+               <p>
+                  <hi>Dedalus.</hi> He firſt found out the Plummet.</p>
+               <pb n="43" facs="tcp:100852:24"/>
+               <p>
+                  <hi>Lamech.</hi> He firſt invented Tents.</p>
+               <p>
+                  <hi>Moſes.</hi> Made uſe firſt of Lamps.</p>
+               <p>
+                  <hi>Aeolus.</hi> Firſt found the Sails of Ships.</p>
+               <p>
+                  <hi>Epeus.</hi> He invented the Ram of <hi>Troy.</hi>
+               </p>
+               <p>
+                  <hi>Copians.</hi> They firſt found out the Helm or Rudder of a Ship.</p>
+            </div>
+            <div type="part">
+               <head>Funerals, and Rules to be obſerved therein.</head>
+               <p>SPecial heed is to be taken that no indigni<g ref="char:EOLhyphen"/>ty be offered to a Mourner; they are by the Herauld to be marſhalled according to their titles and worth.</p>
+               <p>If an Officer of Armes be preſent, he ought to wear the Kings Coat, to the intent that the defunct may be known to have died honourable in the King, Allegiance without ſpot or infamy.</p>
+               <p>His Heir (which is the Chief Mourner) is to receive in the preſence of all the Mourn<g ref="char:EOLhyphen"/>ers the Coat, Armour. Helme, and Creſt, <hi>&amp;c.</hi> belonging to the defunct, whereof the King at Arms of the Province is to make re<g ref="char:EOLhyphen"/>cord, with the defuncts, Match, Iſſue, and deceaſe.</p>
+               <p>Earles muſt have their great Banner two Yards. If of the Garter, his Garter inſtead of Compartments. Supporters, Crown, Sword, and Target, Gantler and Spurs.</p>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:100852:25"/>
+               <head>
+                  <hi>Earle Marſhals orders commanded,</hi> Anno 1618. <hi>For Funerals and Fees, &amp;c.</hi>
+               </head>
+               <p>ALL Noblemen, Barronets, Knights, Eſ<g ref="char:EOLhyphen"/>quires, and Gentlemen of eminent place, birth, and quality that ſhall be either ſilently buried in the night, or by day, without at<g ref="char:EOLhyphen"/>tendance of an Officer of Arms, ſhall never<g ref="char:EOLhyphen"/>theleſs immediately after the death and bu<g ref="char:EOLhyphen"/>rial of ſuch Defunct return a true certificate of the Matches, iſſues, and times of their de<g ref="char:EOLhyphen"/>ceaſe, with their Armes. For which they are to pay into the Officers of Armes theſe Fees.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell>A Gentleman uſing Eſcutcheons</cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Uſing none</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>An Eſquire of Coat Armor</cell>
+                        <cell>6</cell>
+                        <cell>13</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>A Knight</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>A Bannoret and Baronet</cell>
+                        <cell>13</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>A Baron or Baroneſs that ought to have a great Banner and Bannerols</cell>
+                        <cell>20</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>A Biſhop</cell>
+                        <cell>25</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>A Viſcount and Viſcounteſs</cell>
+                        <cell>30</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>An Earle or Counteſs</cell>
+                        <cell>35</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>A Marqueſs or Marchoneſs</cell>
+                        <cell>40</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>A Duke and Arch-Biſhop</cell>
+                        <cell>45</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Which faid ſums are to be payed to the Of<g ref="char:EOLhyphen"/>ficers at Arms, except it appears the defunct was not worth a 1000<abbr>l</abbr> Then to enter without Fee.</p>
+            </div>
+            <div type="part">
+               <pb n="45" facs="tcp:100852:25"/>
+               <head>Funerals. The proceeding of the Funeral of a Gentleman.</head>
+               <list>
+                  <item>FIrſt Children of the Hoſpital.</item>
+                  <item>Two Conductors.</item>
+                  <item>Poor Men.</item>
+                  <item>Gentlemens Servants in Cloaks.</item>
+                  <item>Gentlemen in Cloaks.</item>
+                  <item>Gentlemen in Gowns.</item>
+                  <item>Aldermen in Black.</item>
+                  <item>The Preacher.</item>
+                  <item>A Penon of his own Arms.</item>
+                  <item>Helme and Creſt.</item>
+                  <item>The Coat of Arms.</item>
+                  <item>Chief Mourner.</item>
+                  <item>Two Aſſiſtants.</item>
+                  <item>Aldermen not in Black.</item>
+                  <item>Maſter of the Company if, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Maſter of the Hoſpital.</item>
+                  <item>Then all Gentlemen not in black.</item>
+                  <item>Neighboues and others.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Funerals. <hi>The proceedings to it, to a Duke from a Bannoret.</hi>
+               </head>
+               <list>
+                  <item>TWo Conductors with black Staves.</item>
+                  <item>Servants in Cloaks two and two.</item>
+                  <item>The great Banner by.</item>
+                  <pb n="46" facs="tcp:100852:26"/>
+                  <item>Gentlemen in Cloaks two and two.</item>
+                  <item>Two Banners by.</item>
+                  <item>Gentlemen in Cloaks two and two.</item>
+                  <item>Steward Controuler, <hi>&amp;c.</hi>
+                  </item>
+                  <item>Herauld.</item>
+                  <item>Miniſters.</item>
+                  <item>Gentlemen bareheaded with the Eſcutche<g ref="char:EOLhyphen"/>on.</item>
+                  <item>The Chariot with four Banners carried about it by Gentlemen of Kindred.</item>
+                  <item>Four Footmen bareheaded.</item>
+                  <item>Mourners next of Kindred two and two.</item>
+                  <item>The Neighbours.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>England <hi>when firſt Inhabited, by whom, how and why named; its Governments, &amp;c.</hi>
+               </head>
+               <p>
+                  <hi>BEroſus</hi> ſaith that <hi>Samothes</hi> (called alſo <hi>Me<g ref="char:EOLhyphen"/>ſech,</hi> brother to <hi>Gomer,</hi> the ſixth Son of <hi>Japhet</hi> the Son of <hi>Noah</hi> came into this Land about 252. years after the Flood 3632 years paſt, and called it <hi>Samothea;</hi> in which name it continued until <hi>Albion</hi> the Son of <hi>Neptune</hi> (who deſcended of <hi>Cham</hi>) entred the ſame; and named it <hi>Albion.</hi> This <hi>Albion</hi> reigned a<g ref="char:EOLhyphen"/>bout 562. years after the Flood, in the year of the worlds creation, 2219. and 3370. years ſince. It continued in the name of <hi>Albion</hi> 608 years, until <hi>Brutus Julius</hi> arrived, who con<g ref="char:EOLhyphen"/>quered
+<pb n="47" facs="tcp:100852:26"/>the ſame <hi>Anno mundi,</hi> 2828. and 2764. years ſince he changed the name of it into <hi>Brittain.</hi>
+               </p>
+               <p>It is at this day called <hi>England,</hi> from the <hi>Angli,</hi> with which inhabited part of <hi>Germany. Ptolomy</hi> calleth them <hi>Angeli</hi> in the Heptarchy. They inhabited <hi>Cambridgeſhire, Iſle of Ely, Norfolk,</hi> and <hi>Suffolk,</hi> long named <hi>Eaſt An<g ref="char:EOLhyphen"/>glia.</hi>
+               </p>
+               <p>Theſe Angles and Saxons, <hi>Anno Dom.</hi> 620. having driven the Brittons into <hi>Wales</hi> and <hi>Cornwal,</hi> &amp;c. In ſome time after <hi>Egbert</hi> ha<g ref="char:EOLhyphen"/>ving reduced the Heptarchy into a Monar<g ref="char:EOLhyphen"/>chy, and ruling abſolute, called it <hi>England,</hi> from his own Countrey in <hi>Germany</hi>
+               </p>
+               <p>The former Heptarchy of ſeven Kingdoms, now a Monarchy, was divided into Provinces, Shiercs, and Counties, by <hi>Aluredus,</hi> brother to <hi>Etheldred,</hi> who reigned <hi>Anno Dom.</hi> 872. <hi>Wales</hi> was divided by <hi>Henry</hi> the 8th.</p>
+               <p>The Shires were divided into parts or hun<g ref="char:EOLhyphen"/>dreds, in every of which was contained ten Tythings, containing ten men. The Officer of this Tything the Saxons called <hi>Techingman,</hi> we Tythingman. In ſome places they are cal<g ref="char:EOLhyphen"/>led Headboroughs. Ten of theſe Tythings yielded a hundred men: the number now is uncertain. <hi>York-ſhire</hi> is divided into Ridings. And in <hi>Kent</hi> they have Wapentaches inſtead
+<pb n="48" facs="tcp:100852:27"/>of Tythings, which took that name from viewing of Weapons.</p>
+               <p>The word Shiere cometh of the Saxon word <hi>Scyran,</hi> which ſignifieth to cut, or di<g ref="char:EOLhyphen"/>vide. Every one of theſe Shieres in times paſt was governed <hi>per Comitem,</hi> whom we call Earle, <hi>Quali praefectus regins;</hi> therefore it took the name of a County, <hi>à Comite.</hi> Of latter time, and ſtill is choſen yearly in every County, an Officer by the King, which in La<g ref="char:EOLhyphen"/>tine is named <hi>Ure comes,</hi> as one appointed in the Earles ſtead: We call him Sheriff, the Sax<g ref="char:EOLhyphen"/>ons called him <hi>Scyregegrapa,</hi> which is as much as an Officer to collect Rents and Revenues under, and for another.</p>
+            </div>
+            <div type="part">
+               <head>The Heraulds Duty.</head>
+               <p>THe giving of Coats of Arms belongeth to the Prince, or elſe licenſed by his Letters Pattents, the Herauld onely deviſeth; in which Device he ought to have theſe conſi<g ref="char:EOLhyphen"/>derations to the party that is to have Arms, and to give ſuch Coats as ſuits with the par<g ref="char:EOLhyphen"/>ties qualifications, <hi>viz.</hi>
+               </p>
+               <p n="1">1. He is to enquire whether he that ſhall bear them deſires it, and honours Gentility, and will keep them from diſhonour.</p>
+               <p n="2">2. Whether he be able to declare his pede<g ref="char:EOLhyphen"/>gree.</p>
+               <pb n="49" facs="tcp:100852:27"/>
+               <p n="3">3. He much ſearch for his pedigree, and ſee whether in right he may bear, and whe<g ref="char:EOLhyphen"/>ther his Anceſtors were Gentlemen, and to give the ſame with augmentation, which is a congruent difference.</p>
+               <p n="4">4. His condition, whether clean of life, juſt in promiſe; whether cunning in all, or any one of the liberal Sciences, or in Divini<g ref="char:EOLhyphen"/>ty, Philoſophy, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. Of whom he had praiſe of good works done, or of acts performed, whether of men of wit or women.</p>
+               <p n="6">6. To whom he had done ſervice, either to King, Prince, <hi>&amp;c.</hi> And what ſervice.</p>
+               <p n="7">7. How he had ſerved, whether in War, or as an Embaſſador, or as a Counſellor at Carpet.</p>
+               <p>There are likewiſe ſeveral things belongs to the Herauld, as to be ready in his apparel, at all Coronations to be expert, in betrothing of Princes, and not to diſcloſe the ſecrets of Ladies. There are many ſecrets in Herauldry which they ought not to diſcloſe.</p>
+               <p>It is to be conceived, that in Charges the bearer hath his own device, and ſometime Coats of Devices.</p>
+               <p>Coats of Armes were invented
+<list>
+                     <item>1. To adorn and honour the Family.</item>
+                     <item>2. To ſhew him more worthy then others.</item>
+                     <item>3. To differ out the ſeveral Lines and Iſ<g ref="char:EOLhyphen"/>ſues.</item>
+                  </list>
+               </p>
+               <pb n="50" facs="tcp:100852:28"/>
+               <p>Heraulds of Armes were firſt inſtituted by <hi>Aſcanius,</hi> and renewed by King <hi>Numa;</hi> they were called <hi>Feciales.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Sirnames agreeing with Charges in Coat Armor.</head>
+               <p>IT is objected, that when Armes are born conſonant to the name, it doth note new<g ref="char:EOLhyphen"/>neſs of Gentry, or elſe that the Herauld knew no ſpecial deſert in the perſon, that he might thereof trick him ſomething in Device to ſignifie ſo much, and therefore the Signs are ſet down as agree moſt aptly with the name.</p>
+               <p>'Tis anſwered, That of the like Coats there be many in this Land of notable anti<g ref="char:EOLhyphen"/>quity; it extendeth the glory of his name.</p>
+               <p>
+                  <hi>Hugh</hi> the firſt Earle of <hi>Cheſter</hi> was named <hi>De Loupe,</hi> becauſe he bore a Wolfes head in his Shield.</p>
+               <p>So of Lord <hi>Roch. Lucy,</hi> and many others.</p>
+               <p>Sirnames ending in <hi>Fitz.</hi> were Normans.</p>
+               <p>They whoſe names end in <hi>Sone</hi> are either Saxons, Picts, or Scots originally.</p>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:100852:28"/>
+               <head>Nine Precious Stones uſed in Blazoning for No<g ref="char:EOLhyphen"/>bility, and their vertues.</head>
+               <div n="1" type="section">
+                  <head>1 <hi>Topas, which is for Yellow.</hi>
+                  </head>
+                  <p>THis Stone ſwageth wrath, ſorrow, and evil thoughts, and helpeth the wearer thereof of Frenzy, and ſudden death.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. <hi>Pearle. And is for Argent.</hi>
+                  </head>
+                  <p>The Pearle hath vertue confortative, and is reſtorative, and is food to man. <hi>Joſephus</hi> reporteth, that when <hi>Jeruſalem</hi> was beſieged by <hi>Titus,</hi> the Jews lived long upon Pearle.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3. <hi>Ruby. For red.</hi>
+                  </head>
+                  <p>'Tis a St<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e of Dignity, and of the kinde of Carbuncles. This ſtone neither fire wa<g ref="char:EOLhyphen"/>ſteth, nor changeth his colour. This was one of the precious Stones that was ſet in the breaſt lap of <hi>Aaron.</hi>
+                  </p>
+               </div>
+               <div n="4" type="section">
+                  <head>4. <hi>Saphire. And is for Blue.</hi>
+                  </head>
+                  <p>This Stone accords people in ſtrife, and abates extream heat of burning Feavers, bound to the pulſe it helpeth againſt melan<g ref="char:EOLhyphen"/>cholly, and ſtayeth bleeding that cometh of anguiſh, and is a remedy againſt venome, and preſerveth the ſight.</p>
+               </div>
+               <div n="5" type="section">
+                  <pb n="52" facs="tcp:100852:29"/>
+                  <head>5. <hi>Diamond. And is for black.</hi>
+                  </head>
+                  <p>This Stone will not be daunted, it warneth the wearer thereof to eſchew venome; it withſtandeth Witchcraft, and born on the left ſhoulder hath vertue againſt chiding, and ſtrife of enemies.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6. <hi>Emraud. And is for Green.</hi>
+                  </head>
+                  <p>This ſtone comforteth the vital ſpirits, it comforteth the ſight, whereby the heart re<g ref="char:EOLhyphen"/>ceiveth joy: alſo it repreſſeth motions of luſt, and helpeth againſt illuſions; it increa<g ref="char:EOLhyphen"/>ſeth riches, and prevaileth in play likewiſe; it ceaſeth tempeſt, and ſtencheth Blood.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>7. <hi>Amatiſt.</hi>
+                  </head>
+                  <p>This Stone is an enemy to Drunkenneſs, and giddy brains, it cauſeth a man to have a good forecaſt and a quick minde, removeth idle thoughts, and increaſeth good under<g ref="char:EOLhyphen"/>ſtanding.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8. <hi>Jacinth.</hi>
+                  </head>
+                  <p>It putteth away ſorrow, and increaſeth mirth; being bound next unto the skin of either man or woman, putteth away peſtilent aire, and giveth ſtrength to the members.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9. <hi>Sardonax.</hi>
+                  </head>
+                  <p>This ſtone putteth away Letchery, and im<g ref="char:EOLhyphen"/>braceth chaſtity.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="53" facs="tcp:100852:29"/>
+               <head>The price of Gold, Pearle, and Diamonds. &amp;c.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">l.</cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Of Gold.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>BArbary Gold, as Chickens, <hi>&amp;c.</hi> The ounce is</cell>
+                        <cell>3</cell>
+                        <cell>12</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>The penny weight</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>The Kings Coin</cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>The penny weight</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>French Crowns, Flemiſh Crowns, Spaniſh Piſtolets, and our own Coin is the ſame good<g ref="char:EOLhyphen"/>neſs.</cell>
+                        <cell rows="2" cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Spaniſh Silver.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Being Silver <hi>per</hi> ounce is worth <hi>per</hi> ounce</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>Saffron Gold which is a baſer coine, and little uſed in trading is worth the ounce</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>There is a little Coin about the bigneſs of a French Crown, worth by the ounce but</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Price of Pearl.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>One grain</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Two Grains</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Three Grains</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Four Grains</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Five Grains</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Six Grains</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Seven Grains</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Eight Grains</cell>
+                        <cell>0</cell>
+                        <cell>12</cell>
+                        <cell>0</cell>
+                     </row>
+                     <pb n="54" facs="tcp:100852:30"/>
+                     <row>
+                        <cell>For Two Caracks</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Three Caracks</cell>
+                        <cell>5</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Four Caracks</cell>
+                        <cell>7</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Five Caracks</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Six Caracks</cell>
+                        <cell>20</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Seven Caracks</cell>
+                        <cell>40</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Eight Caracks</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>'Tis to be underſtood they muſt be fair and clear.</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>For a Pearle of ſeven or eight grains, if any of that bigneſs) is worth</cell>
+                        <cell>500</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Price of Diamonds.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>If fair and clear without blemiſh, one Grain is worth</cell>
+                        <cell>1</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Two Grains</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Three Grains</cell>
+                        <cell>6</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Four Grains</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Five Grains</cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Six Grains</cell>
+                        <cell>20</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Eight Grains</cell>
+                        <cell>40</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>An Explanation of difficult Words uſed in Herauldry.</head>
+               <list>
+                  <item>A.
+<list>
+                        <item>
+                           <hi>ARgent.</hi> White</item>
+                        <item>
+                           <hi>Azure.</hi> Blue</item>
+                        <item>
+                           <hi>Annulet.</hi> A Ring of a Maile Coat</item>
+                     </list>
+                  </item>
+                  <pb n="55" facs="tcp:100852:30"/>
+                  <item>B.
+<list>
+                        <item>
+                           <hi>Blazoning.</hi> Expreſſing</item>
+                        <item>
+                           <hi>Bevile.</hi> Broken, or a Carpenters Square mo<g ref="char:EOLhyphen"/>ving upon a Joynt</item>
+                        <item>
+                           <hi>Billet.</hi> A piece of paper folded like a Letter</item>
+                        <item>
+                           <hi>Battone.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>C.
+<list>
+                        <item>
+                           <hi>Cheveron.</hi> A Barge couple.</item>
+                        <item>
+                           <hi>Coſt.</hi> A Rib</item>
+                        <item>
+                           <hi>Canton.</hi> A Corner</item>
+                        <item>
+                           <hi>Cheque.</hi> Compoſition</item>
+                        <item>
+                           <hi>Crenelle.</hi> Dented or notched</item>
+                        <item>
+                           <hi>Chaplet.</hi> A Garland</item>
+                        <item>
+                           <hi>Componed.</hi> Compounded</item>
+                        <item>
+                           <hi>Couped.</hi> Cut off</item>
+                     </list>
+                  </item>
+                  <item>D.
+<list>
+                        <item>
+                           <hi>Dance.</hi> Dented or notched more deep.</item>
+                        <item>
+                           <hi>Delf.</hi> A pit or den.</item>
+                        <item>
+                           <hi>Diſplayed.</hi> Wings abroad.</item>
+                     </list>
+                  </item>
+                  <item>E.
+<list>
+                        <item>
+                           <hi>Eſchucheon.</hi> A Shield</item>
+                        <item>
+                           <hi>Eraſed.</hi> Rended, or torn</item>
+                        <item>
+                           <hi>Ean.</hi> Water.</item>
+                     </list>
+                  </item>
+                  <item>F.
+<list>
+                        <item>
+                           <hi>Feſſe.</hi> A Girdle</item>
+                        <item>
+                           <hi>Fillet.</hi> That which women wear in making up their hair,</item>
+                        <item>
+                           <hi>Flaſque.</hi> A Bow bent</item>
+                        <item>
+                           <hi>Files.</hi> Plaits of Garments</item>
+                        <item>
+                           <hi>Flanch.</hi> Flanck of a man.</item>
+                        <pb n="56" facs="tcp:100852:31"/>
+                        <item>
+                           <hi>Fuſſils.</hi> Skins of yarn on ſlippers</item>
+                        <item>
+                           <hi>Forme.</hi> Broad</item>
+                        <item>
+                           <hi>Fitchee.</hi> Sharp to faſten</item>
+                        <item>
+                           <hi>Frinbrated.</hi> Hemmed</item>
+                     </list>
+                  </item>
+                  <item>G.
+<list>
+                        <item>
+                           <hi>Gules.</hi> Red</item>
+                        <item>
+                           <hi>Gerone.</hi> The Lap, or the ſpace between the Thigh, which we call Groine</item>
+                        <item>
+                           <hi>Guſſets.</hi> Belonging to ſhifts</item>
+                        <item>
+                           <hi>Gabonated.</hi> Cut in morſels</item>
+                        <item>
+                           <hi>Gore.</hi> Belonging to womens Smocks</item>
+                        <item>
+                           <hi>Gemmews.</hi> Twins</item>
+                        <item>
+                           <hi>Gutte.</hi> Drops</item>
+                     </list>
+                  </item>
+                  <item>H.
+<list>
+                        <item>
+                           <hi>Humet. Guillianus</hi> calls it a Table. <hi>Foſwel</hi> a Coffin</item>
+                     </list>
+                  </item>
+                  <item>I.
+<list>
+                        <item>
+                           <hi>Invected.</hi> Carried in</item>
+                        <item>
+                           <hi>Ingrailed.</hi> Entred or gone in</item>
+                        <item>
+                           <hi>Indented.</hi> Full of Teeth.</item>
+                     </list>
+                  </item>
+                  <item>L.
+<list>
+                        <item>
+                           <hi>Lambeaux.</hi> Plaits of a Garment</item>
+                        <item>
+                           <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rmes.</hi> Tears</item>
+                     </list>
+                  </item>
+                  <item>M
+<list>
+                        <item>
+                           <hi>Maſcle.</hi> A marſh of a net</item>
+                        <item>
+                           <hi>Mullet.</hi> A Meotor or Star</item>
+                     </list>
+                  </item>
+                  <item>N.
+<list>
+                        <item>
+                           <hi>Nombrel.</hi> The Navel</item>
+                        <item>
+                           <hi>Nowed.</hi> Folded or knotted</item>
+                     </list>
+                  </item>
+                  <item>O.
+<list>
+                        <item>
+                           <hi>Or.</hi> Yellow</item>
+                        <pb n="57" facs="tcp:100852:31"/>
+                        <item>
+                           <hi>Orle.</hi> A pillow</item>
+                        <item>
+                           <hi>Ogreſſes.</hi> Pellets of Guns</item>
+                     </list>
+                  </item>
+                  <item>P.
+<list>
+                        <item>
+                           <hi>Purpure.</hi> Much red and a little black</item>
+                        <item>
+                           <hi>Pile.</hi> A Wedge</item>
+                        <item>
+                           <hi>Purflu.</hi> A border of Furrs</item>
+                        <item>
+                           <hi>Patonce.</hi> A Crutch</item>
+                        <item>
+                           <hi>Patte.</hi> Broad</item>
+                        <item>
+                           <hi>Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>x.</hi> Pitch</item>
+                     </list>
+                  </item>
+                  <item>S.
+<list>
+                        <item>
+                           <hi>Sable.</hi> Black</item>
+                        <item>
+                           <hi>Sanguine.</hi> Of the colour of blood</item>
+                        <item>
+                           <hi>Saltire.</hi> An inſtrument to ſcale Walls</item>
+                        <item>
+                           <hi>Shaporne.</hi> A Hoad</item>
+                        <item>
+                           <hi>Scarpe.</hi> A Scarf.</item>
+                     </list>
+                  </item>
+                  <item>T.
+<list>
+                        <item>
+                           <hi>Tenne.</hi> Red and yellow</item>
+                        <item>
+                           <hi>Torteaux.</hi> A Cake</item>
+                     </list>
+                  </item>
+                  <item>V.
+<list>
+                        <item>
+                           <hi>Vert.</hi> Green</item>
+                        <item>
+                           <hi>Verday.</hi> Of Flowers</item>
+                        <item>
+                           <hi>Voider.</hi> A Looking-glaſs</item>
+                        <item>
+                           <hi>Verſied.</hi> Turned up-ſide down</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="58" facs="tcp:100852:32"/>
+               <head>An account of ſeveral Cities, Caſtles, and other notable places, when they were built, by whom, and in what Year, before and after Christs Nativity; beſides things of Antiquity obſervable.</head>
+               <div type="section">
+                  <head>London.</head>
+                  <p>
+                     <hi>BRute</hi> after a long and weary journey with his Trojans arrived in this Iſland; and as the common received opinion is, builded <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and named it <hi>New Troy.</hi> The firſt build<g ref="char:EOLhyphen"/>ing lay joyning to <hi>Thames,</hi> from the <hi>Tower</hi> to <hi>White Fryers.</hi> It was firſt begun to be built in the year before Chriſt, one thouſand, one hundred and eight.</p>
+               </div>
+               <div type="section">
+                  <head>York.</head>
+                  <p>
+                     <hi>York</hi> nine hundred eighty ſeven years be<g ref="char:EOLhyphen"/>fore Chriſt was builded by <hi>Ebrank,</hi> then King of <hi>Brittain,</hi> and was firſt named <hi>Kairbranck;</hi> he builded <hi>Edenborough.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="59" facs="tcp:100852:32"/>
+                  <head>Carliſle.</head>
+                  <p>It was by King <hi>Leil,</hi> in the year before Chriſt nine hundred and ſeventeen, builded.</p>
+               </div>
+               <div type="section">
+                  <head>Bath.</head>
+                  <p>
+                     <hi>Bath</hi> was builded by King <hi>Bladud,</hi> eight hundred ſixty three years before Chriſt; the ſaid King had long ſtudied at <hi>Athens,</hi> and brought Philoſophers to keep School here in <hi>Brittain.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Leiceſter.</head>
+                  <p>That City was builded by King <hi>Laire</hi> eight hundred forty four years before Chriſt.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Billingſgate in</hi> London.</head>
+                  <p>King <hi>Belinus</hi> four hundred and one year before Chriſt made it a Haven, and called it <hi>Billingsgate.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Grantham.</head>
+                  <p>It was builded by King <hi>Gorbamanus,</hi> three hundred and three years before Chriſt.</p>
+               </div>
+               <div type="section">
+                  <head>Ludgate.</head>
+                  <p>King <hi>Lud</hi> ſeventy years before Chriſt buil<g ref="char:EOLhyphen"/>ded
+<pb n="60" facs="tcp:100852:33"/>
+                     <hi>Ludgate,</hi> and builded much on the weſt part of <hi>London.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Julius Caeſar.</head>
+                  <p>In the ſaid King <hi>Luds</hi> reign, and fifty four years before Chriſt, he entred this Iſland.</p>
+               </div>
+               <div type="section">
+                  <head>Jeſus Chriſt Born.</head>
+                  <p>
+                     <hi>Cunobelinus</hi> reigned here in <hi>Brittain</hi> when Chriſt was born.</p>
+               </div>
+               <div type="section">
+                  <head>Southampton.</head>
+                  <p>Was ſo named in reſpect of one <hi>Hamon</hi> a Roman, ſlain and thrown into the Sea there by <hi>Aviragus,</hi> then King of the Brittans, forty four years after Chriſts Nativity.</p>
+               </div>
+               <div type="section">
+                  <head>Colcheſter.</head>
+                  <p>
+                     <hi>Coilus</hi> one hundred twenty four years after Chriſts Nativity builded it.</p>
+               </div>
+               <div type="section">
+                  <head>Lucius the firſt Chriſtian King.</head>
+                  <p>One hundrrd ſeventy nine years after Chriſts Nativity <hi>Lucius</hi> King here in <hi>Brittain,</hi> became a Chriſtian, and was the firſt Chriſti<g ref="char:EOLhyphen"/>an King in the world.</p>
+               </div>
+               <div type="section">
+                  <pb n="61" facs="tcp:100852:33"/>
+                  <head>
+                     <hi>Stonehedge, being the great Stones erected on</hi> Sa<g ref="char:EOLhyphen"/>lisbury <hi>Plairs.</hi>
+                  </head>
+                  <p>
+                     <hi>Aurelius Ambroſius,</hi> King of the Brittans, four hundred ſixty ſix years after Chriſt ere<g ref="char:EOLhyphen"/>cted that Monument over the bodies of the Brittiſh Nobility there ſlain (and buried) where they met in a treaty with the Saxons, and were maſſacred traiterouſly by them.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Univerſity of</hi> Oxford.</head>
+                  <p>Eight hundred ſeventy two years after Chriſts Nativity, <hi>Alfred</hi> a Saxon King here ordained common Schools of divers Sciences at <hi>Oxford.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Hertford and Witham in Eſſex.</head>
+                  <p>In the year nine hundred, <hi>Edward,</hi> ſirna<g ref="char:EOLhyphen"/>med <hi>Senior,</hi> King of the Weſt Saxons builded <hi>Hertford,</hi> and another Town at <hi>Witham</hi> in <hi>Eſſex.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Worceſter.</head>
+                  <p>By means of King <hi>Edgars</hi> erecting a Mona<g ref="char:EOLhyphen"/>naſtery there it became a place of note; it was nine hundred fifty nine years after Chriſt.</p>
+               </div>
+               <div type="section">
+                  <pb n="62" facs="tcp:100852:34"/>
+                  <head>Leeds Caſtle.</head>
+                  <p>
+                     <hi>Creneken,</hi> a noble man in King <hi>William</hi> the Conquerors Reign, builded that Caſtle.</p>
+               </div>
+               <div type="section">
+                  <head>Oxford Caſtle.</head>
+                  <p>In the year of Chriſt, one thouſand ſeventy one, <hi>Robert de Olley</hi> a Nobleman, that came in with <hi>William</hi> the Conqueror, builded it.</p>
+               </div>
+               <div type="section">
+                  <head>Durham Caſtle.</head>
+                  <p>In the year of Chriſt one thouſand ſeventy five, King <hi>William</hi> the Conquerour cauſed that Caſtle to be built.</p>
+               </div>
+               <div type="section">
+                  <head>Carliſle Caſtle and Town.</head>
+                  <p>The Town was re-builded by King <hi>William Rufus,</hi> after it was deſtroyed by the Danes; he likewiſe builded the Caſtle there.</p>
+               </div>
+               <div type="section">
+                  <head>New Caſtle upon Tine.</head>
+                  <p>Was likewiſe builded by King <hi>William Ru<g ref="char:EOLhyphen"/>fus,</hi> in the year of Chriſt one thouſand ninety one.</p>
+               </div>
+               <div type="section">
+                  <pb n="63" facs="tcp:100852:34"/>
+                  <head>Weſtminſter Hall.</head>
+                  <p>It was builded by King <hi>William Rufus,</hi> in the year of Chriſt one thouſand ninety nine.</p>
+               </div>
+               <div type="section">
+                  <head>Briſtol Caſtle and Cardiffe.</head>
+                  <p>Was builded by <hi>Robert, Baſtard</hi> Sonne to <hi>Henry</hi> the firſt, who likewiſe builded <hi>Cardiffe.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The Temple in London.</head>
+                  <p>
+                     <hi>Hereclius</hi> Patriarch of <hi>Jeruſalem</hi> coming to King <hi>Henry</hi> the Second for aid againſt the Turks, dedicated the Temple then new buil<g ref="char:EOLhyphen"/>ded.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>The firſt Mayor and Sheriffs in</hi> London.</head>
+                  <p>In the year of Chriſt one thouſand one hundred and ninety, the Citizens of <hi>London</hi> obtained to be governed by two Bayliffs, or Sheriffs, and a Mayor.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Tower Ditch, and the outer Wall of the Tower of</hi> London.</head>
+                  <p>In the Reign of <hi>Richard</hi> the firſt, <hi>William</hi> Biſhop of <hi>Ely</hi> builded the ſaid Wall and made the ſaid Ditch.</p>
+               </div>
+               <div type="section">
+                  <pb n="64" facs="tcp:100852:35"/>
+                  <head>
+                     <hi>Mayors of</hi> London <hi>Yearly choſen.</hi>
+                  </head>
+                  <p>In the Reign of King <hi>John,</hi> and in the year of Chriſt one thouſand two hundred and eight was granted to the Citizens of <hi>London</hi> by Letters Patents, that they ſhould yearly chooſe a Mayor.</p>
+               </div>
+               <div type="section">
+                  <head>London Bridge.</head>
+                  <p>The ſame year London Bridge was finiſhed of Stone, it was before of Timber.</p>
+               </div>
+               <div type="section">
+                  <head>Chartly and Beſten Caſtles.</head>
+                  <p>Theſe Caſtles were builded by <hi>Ralph</hi> Earle of <hi>Cheſter,</hi> in King <hi>Henry</hi> the Third's Reign, and in the year of Chriſt one thouſand two hundred and twenty.</p>
+               </div>
+               <div type="section">
+                  <head>Flint Caſtle.</head>
+                  <p>It was built by <hi>Edward</hi> the Firſt in the year of Chriſt one thouſand two hundred ſeventy five.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Guild-Hall in</hi> London.</head>
+                  <p>Was built in the Reign of <hi>Henry</hi> the fourth, and in the year of Chriſt one thouſand four
+<pb n="65" facs="tcp:100852:35"/>hundred and eleven. Sir <hi>Thomas Knowles,</hi> Mayor.</p>
+               </div>
+               <div type="section">
+                  <head>Newgate in London.</head>
+                  <p>In the Reign of <hi>Henry</hi> the ſixth, the Execu<g ref="char:EOLhyphen"/>tors of <hi>William Whittington</hi> builded <hi>Newgate.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Firſt payment of Cuſtome.</head>
+                  <p>By a Parliament in the year of Chriſt one thouſand four hundred twenty five, and in the Reign of <hi>Henry</hi> the ſixth, was granted to the King one ſhilling a pound of all Merchan<g ref="char:EOLhyphen"/>dize brought in or carried out of <hi>England,</hi> and three ſhillings of every tun of Wine, which was called Tunnage and Poundage.</p>
+               </div>
+               <div type="section">
+                  <head>Royal Exchange, London.</head>
+                  <p>Was builded by Sir <hi>Thomas Greſham</hi> in the Reign of Queen <hi>Elizabeth.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Univerſity of</hi> Cambridge.</head>
+                  <p>
+                     <hi>Cambridge</hi> as 'tis affirmed was firſt frequen<g ref="char:EOLhyphen"/>ted with Philoſophers and Aſtronomers pro<g ref="char:EOLhyphen"/>cured from <hi>Athens</hi> in the Reign of <hi>Gurguntius</hi> King of <hi>Brittain,</hi> and before the birth of Chriſt three hundred ſeventy five years.</p>
+               </div>
+               <div type="section">
+                  <pb n="66" facs="tcp:100852:36"/>
+                  <head>Of other Cities, &amp;c.</head>
+                  <p>Other Cities and Towns now conſiderable in <hi>England</hi> not here mentioned, had their be<g ref="char:EOLhyphen"/>ginning by means of ſome Cathedral Mona<g ref="char:EOLhyphen"/>ſtery or Abbey there built, which moved and drew people to inhabit near to it; as <hi>Sa<g ref="char:EOLhyphen"/>lisbury</hi> by reaſon of a Cathedral there built, and a Biſhoprick there erected, came to the perfection as now it is; and <hi>Exeter</hi> in regard of a Monckery anciently being there where now the Cathedral ſtands; people after their being converted to the Chriſtian Religion en<g ref="char:EOLhyphen"/>deavoured to live and inhabit as near the ſaid Monckery as they could: It was walled round by King <hi>Athelſtane.</hi> The Caſtle is of a great antiquity.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <head>An Alphebetical Table of the principal mat<g ref="char:EOLhyphen"/>ters in this Book.</head>
+            <list>
+               <item>A.
+<list>
+                     <item>
+                        <hi>ANcient form of Government</hi> pag. 33</item>
+                     <item>
+                        <hi>The ſignification of Charges and Devices in Armory</hi> pag. 53</item>
+                  </list>
+               </item>
+               <item>B.
+<list>
+                     <item>
+                        <hi>Of a Baron</hi> pag. 30</item>
+                  </list>
+               </item>
+               <item>C.
+<list>
+                     <item>
+                        <hi>Of the Kings Goronation</hi> pag. 3</item>
+                     <pb facs="tcp:100852:36"/>
+                     <item>
+                        <hi>Of the Kings Crown with its twelve Stones</hi> pag. 1</item>
+                     <item>
+                        <hi>Significations of Charges and Devices in Coats</hi> pag. 33</item>
+                  </list>
+               </item>
+               <item>D.
+<list>
+                     <item>
+                        <hi>Of Doctors</hi> pag. 10</item>
+                     <item>
+                        <hi>Of a Duke</hi> pag. 32</item>
+                     <item>
+                        <hi>Price of Diamonds</hi> pag. 54</item>
+                  </list>
+               </item>
+               <item>E.
+<list>
+                     <item>
+                        <hi>Degrees of an Eſquire</hi> pag. 28</item>
+                     <item>
+                        <hi>Of an Earle</hi> pag. 31</item>
+                     <item>England <hi>firſt inhabited, by whom, how, and why named; its Government</hi> pag. 46</item>
+                     <item>
+                        <hi>Of the Kings Enſigns</hi> pag. 3</item>
+                  </list>
+               </item>
+               <item>F.
+<list>
+                     <item>
+                        <hi>A Royal Feaſt the King preſent</hi> pag. 5</item>
+                     <item>
+                        <hi>Funerals, and rules to be obſerved therein</hi> pag. 43</item>
+                     <item>
+                        <hi>Earl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Marſhals Orders and Funeral Fees</hi> pag. 44</item>
+                     <item>
+                        <hi>Proceedings of the Funeral of a Gentleman</hi> pag. 45</item>
+                     <item>
+                        <hi>Proceedings from a Baron to a Dukes Funeral</hi> ib.</item>
+                  </list>
+               </item>
+               <item>G.
+<list>
+                     <item>
+                        <hi>Going to the Parliament in State</hi> pag. 6</item>
+                     <item>
+                        <hi>Who are to be admitted Gentlemen</hi> pag. 8</item>
+                     <item>
+                        <hi>How Gentlemen are to take place</hi> pag. 16</item>
+                     <item>
+                        <hi>Of a Gentleman</hi> pag. 27</item>
+                     <item>
+                        <hi>Who are Gentlemen</hi> pag. 26</item>
+                     <item>
+                        <hi>Prices of Gold</hi> pag. 53</item>
+                  </list>
+               </item>
+               <item>H.
+<list>
+                     <item>
+                        <hi>The Heraulds duty</hi> pag. 48</item>
+                     <item>
+                        <hi>Explanation of difficult words in Herauldry</hi> pag. 54</item>
+                  </list>
+               </item>
+               <item>K.
+<list>
+                     <item>
+                        <hi>Of Knights Batchelors</hi> pag. 29</item>
+                     <pb facs="tcp:100852:37"/>
+                     <item>
+                        <hi>Knights Titles</hi> ibid.</item>
+                     <item>
+                        <hi>Knights Bannorets</hi> ibid.</item>
+                     <item>
+                        <hi>Knights Barronets</hi> pag. 36</item>
+                     <item>
+                        <hi>Orders of Knighthood in</hi> England pag. 19</item>
+                     <item>
+                        <hi>Orders of Knighthood in Forreign parts</hi> pag. 21</item>
+                  </list>
+               </item>
+               <item>M.
+<list>
+                     <item>
+                        <hi>Of a Marqueſs</hi> pag. 32</item>
+                  </list>
+               </item>
+               <item>O.
+<list>
+                     <item>
+                        <hi>Officers of State how to take place</hi> pag. 15</item>
+                  </list>
+               </item>
+               <item>P.
+<list>
+                     <item>
+                        <hi>Profeſſions not Gentlemen</hi> pag. 10</item>
+                     <item>
+                        <hi>Seven more laudable</hi> ibid.</item>
+                     <item>
+                        <hi>Precedency of Kings and Kingdoms</hi> pag. 14</item>
+                     <item>
+                        <hi>Taking of place from a ſlave to a Baron</hi> pag. 17</item>
+                     <item>
+                        <hi>Of a Prince</hi> pag. 32</item>
+                     <item>
+                        <hi>The price of Pearles</hi> pag. 53</item>
+                  </list>
+               </item>
+               <item>S.
+<list>
+                     <item>
+                        <hi>Seven Sciences Gentile, with the Arms they may bear</hi> pag. 11</item>
+                     <item>
+                        <hi>Sirnames agreeing with charges in Coat Armor</hi> pag. 50</item>
+                     <item>
+                        <hi>Nine precious Stones uſed in blazoning for Nobi<g ref="char:EOLhyphen"/>lity, and their vertues</hi> pag. 51</item>
+                  </list>
+               </item>
+               <item>V.
+<list>
+                     <item>
+                        <hi>Of a Viſcount</hi> pag. 31</item>
+                     <item>
+                        <hi>An account of ſeveral Cities, Caſtles, and other noteable places, when they were built, and by whom; beſides many things of Antiquity ob<g ref="char:EOLhyphen"/>ſerveable</hi> pag. 58</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100852:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
